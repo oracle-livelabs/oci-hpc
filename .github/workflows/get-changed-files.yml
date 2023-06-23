@@ -12,15 +12,12 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "get-changed-files"
-  get-changed-files:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-    
-     steps:
-        - uses: actions/checkout@v2
-          with: 
-            fetch-depth: 0
-        - name: get file changes
-          run: | 
-            git diff --name-only ${{ github.event.before }} ${{ github.event.after }}
+   build: 
+     runs-on: ubuntu-latest
+     steps: 
+      - uses: actions/checkout@v2
+        with: 
+          fetch-depth: 0
+      - name: get file changes
+        run: | 
+          git diff --name-only ${{ github.event.before }} ${{ github.event.after }}
