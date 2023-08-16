@@ -1,0 +1,48 @@
+{
+  "workshoptitle": "O Título do Workshop é definido no manifesto",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "variables": ["../../variables/variables.json",
+    "../../variables/variables-in-another-file.json"],
+  "tutorials": [
+    {
+      "title": "Introdução",
+      "description": "A Introdução é sempre a segunda para LiveLabs. O título e o título do menu de conteúdo correspondem à Introdução.",
+      "filename": "../../introduction/introduction_pt-BR.md"
+    },
+    {
+      "title": "Conceitos Básicos da Área de Trabalho Remota noVNC",
+      "description": "Usando a Área de Trabalho Remota noVNC",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 1: Provisionar uma Instância",
+      "description": "Os laboratórios que seguem a introdução são numerados, começando pelo Laboratório 1",
+      "filename": "../../provision/provision_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 2: Configurar o Ambiente",
+      "filename": "../../setup/setup_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 3: Carregar Dados em uma Instância",
+      "filename": "../../data-load/data-load_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 4: Dados de Consulta",
+      "filename": "../../query/query_pt-BR.md"
+    },
+    {
+        "title": "Laboratório 5: Tabelas em LiveLabs",
+        "filename": "../../tables/tables_pt-BR.md"
+    },
+    {
+            "title": "Laboratório 6: Variáveis em LiveLabs",
+            "filename": "../../variables/variables_pt-BR.md"
+    },
+    {
+      "title": "Precisa de Ajuda?",
+      "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+    }
+  ]
+}
