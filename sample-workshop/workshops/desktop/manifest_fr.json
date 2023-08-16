@@ -1,0 +1,48 @@
+{
+  "workshoptitle": "Le titre de l'atelier est défini dans le manifeste",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "variables": ["../../variables/variables.json",
+    "../../variables/variables-in-another-file.json"],
+  "tutorials": [
+    {
+      "title": "Présentation",
+      "description": "L'introduction est toujours la seconde pour LiveLabs. Le titre et le titre du menu Contenu correspondent à l'introduction.",
+      "filename": "../../introduction/introduction_fr.md"
+    },
+    {
+      "title": "Introduction à noVNC Remote Desktop",
+      "description": "Utilisation du bureau à distance noVNC",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_fr.md"
+    },
+    {
+      "title": "Exercice 1 : Provisionner une instance",
+      "description": "Les exercices qui suivent l'introduction sont numérotés, en commençant par l'atelier 1.",
+      "filename": "../../provision/provision_fr.md"
+    },
+    {
+      "title": "Exercice 2 : Configurer l'environnement",
+      "filename": "../../setup/setup_fr.md"
+    },
+    {
+      "title": "Exercice 3 : Charger des données dans une instance",
+      "filename": "../../data-load/data-load_fr.md"
+    },
+    {
+      "title": "Exercice 4 : Interroger les données",
+      "filename": "../../query/query_fr.md"
+    },
+    {
+        "title": "Exercice 5 : Tables dans LiveLabs",
+        "filename": "../../tables/tables_fr.md"
+    },
+    {
+            "title": "Exercice 6 : Variables dans LiveLabs",
+            "filename": "../../variables/variables_fr.md"
+    },
+    {
+      "title": "Vous avez besoin d'aide ?",
+      "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+    }
+  ]
+}
