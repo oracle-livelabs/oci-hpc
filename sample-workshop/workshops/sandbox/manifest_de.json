@@ -1,0 +1,48 @@
+{
+    "workshoptitle": "Der Titel des Workshops wird im Manifest definiert",
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "variables": ["../../variables/variables.json",
+        "../../variables/variables-in-another-file.json"],
+    "tutorials": [
+        {
+            "title": "Beginnen",
+            "description": "Voraussetzungen für LiveLabs (Oracle-Mandanten). Der Titel der Übung und der Titel des Menüs \"Inhalt\" (der Titel oben) stimmen für die erforderliche Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_de.md"
+        },
+        {
+            "title": "Einführung",
+            "description": "Die Einführung ist immer zweite für LiveLabs. Titel des Menüs \"Titel\" und \"Inhalt\" stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Übung 1: Instanz bereitstellen",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Übung 1",
+            "filename": "../../provision/provision_de.md"
+        },
+        {
+            "title": "Übung 2: Umgebung einrichten",
+            "filename": "../../setup/setup_de.md"
+        },
+        {
+            "title": "Übung 3: Daten in eine Instanz laden",
+            "filename": "../../data-load/data-load_de.md"
+        },
+        {
+            "title": "Übung 4: Daten abfragen",
+            "filename": "../../query/query_de.md"
+        },
+        {
+            "title": "Übung 6: Variablen in LiveLabs",
+            "filename": "../../variables/variables_de.md"
+        },
+        {
+            "title": "Übung 5: Tabellen in LiveLabs",
+            "filename": "../../tables/tables_de.md"
+        },
+        {
+            "title": "Weitere Informationen",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
