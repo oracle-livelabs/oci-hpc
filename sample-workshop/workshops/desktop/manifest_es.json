@@ -1,0 +1,48 @@
+{
+  "workshoptitle": "El título del taller se define en el manifiesto",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "variables": ["../../variables/variables.json",
+    "../../variables/variables-in-another-file.json"],
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "La introducción siempre es la segunda para LiveLabs. El título y el título del menú de contenido coinciden con la introducción.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Introducción a noVNC Remote Desktop",
+      "description": "Uso de noVNC Remote Desktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+    },
+    {
+      "title": "Práctica 1: Provisionamiento de una Instancia",
+      "description": "Los laboratorios que siguen la introducción están numerados, a partir del laboratorio 1",
+      "filename": "../../provision/provision_es.md"
+    },
+    {
+      "title": "Práctica 2: Configuración del entorno",
+      "filename": "../../setup/setup_es.md"
+    },
+    {
+      "title": "Práctica 3: Carga de datos en una instancia",
+      "filename": "../../data-load/data-load_es.md"
+    },
+    {
+      "title": "Práctica 4: Datos de Consulta",
+      "filename": "../../query/query_es.md"
+    },
+    {
+        "title": "Práctica 5: Tablas en LiveLabs",
+        "filename": "../../tables/tables_es.md"
+    },
+    {
+            "title": "Práctica 6: Variables en LiveLabs",
+            "filename": "../../variables/variables_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas e instrucciones comunes para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    }
+  ]
+}
