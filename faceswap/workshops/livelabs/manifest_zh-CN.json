@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "OCI 上的 Faceswap",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+      {
+            "title": "入门",
+            "description": "此实验室概述了在 OCI 上注册免费套餐账户的步骤。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-CN.md"
+        },
+        {
+            "title": "研讨会简介",
+            "description": "本课将介绍研讨会、深造主题和面膜应用。",
+            "filename": "../../Introduction-to-the-workshop/Introduction-to-the-workshop_zh-CN.md"
+        },
+        {
+            "title": "练习 1：创建 SSH 密钥",
+            "description": "此实验将指导您完成创建连接到计算实例所需的 SSH 密钥和可选步骤。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_zh-CN.md"
+        },
+        {
+            "title": "实验 2：预配 GPU 实例",
+            "description": "本练习将完成在 OCI 上启动 GPU 实例所需的可选步骤。",
+            "filename": "../../Lab2/Lab2-Provision-a-GPU-instance_zh-CN.md"
+        },
+        {
+            "title": "实验室 3：通过 VNC 设置和访问",
+            "description": "此实验室将逐步完成通过 VNC 客户端设置和访问 Ubuntu 实例所需的步骤（此处为：TigerVNC）。",
+            "filename": "../../Lab3/Set-up-and-access-through-VNC_zh-CN.md"
+        },
+        {
+            "title": "实验 4：安装 Faceswap",
+            "description": "此实验室将完成在计算实例上安装 Faceswap 所需的可选步骤。",
+            "filename": "../../Lab4/Install-Faceswap_zh-CN.md"
+        },
+        {
+            "title": "实验室 5：运行 Faceswap",
+            "description": "此实验室将逐步完成在计算实例（终端和 GUI）上运行 Faceswap 所需的可选步骤。",
+            "filename": "../../Lab5/Run-Faceswap_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "用于接收实时帮助的常见问题和方向的解决方案",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-CN.md"
+        }
+    ]
+}
