@@ -1,0 +1,36 @@
+{
+  "workshoptitle": "ワークショップのタイトルはマニフェストで定義されます",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "LiveLabsでは、概要は常に2番目です。「概要」のタイトルとコンテンツ・メニューのタイトルが一致します。",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "noVNCリモートデスクトップを使い始める",
+      "description": "noVNCリモートデスクトップの使用",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_ja.md"
+    },
+    {
+      "title": "演習1: 環境の初期化",
+      "description": "環境の初期化",
+      "filename": "../../initialize-environment/initialize-environment_ja.md"
+    },
+    {
+      "title": "演習2: インスタンスのプロビジョニング",
+      "description": "演習環境のプロビジョニング",
+      "filename": "../../provision/provision_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+    },
+    {
+      "title": "その他のLiveLabs",
+      "description": "その他のLiveLabs",
+      "filename": "../../other-livelabs/other-livelabs_ja.md"
+    }
+  ]
+}
