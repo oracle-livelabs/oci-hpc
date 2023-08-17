@@ -1,0 +1,36 @@
+{
+  "workshoptitle": "工作坊的標題定義於資訊清單中",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "簡介",
+      "description": "LiveLabs 的「簡介」一律為第二個。「簡介」的標題和內容功能表標題相符。",
+      "filename": "../../introduction/introduction_zh-TW.md"
+    },
+    {
+      "title": "實驗室 1：環境設定",
+      "description": "驗證運算執行處理設定",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_zh-TW.md"
+    },
+    {
+      "title": "實驗室 2：初始化環境",
+      "description": "起始環境",
+      "filename": "../../initialize-environment/initialize-environment_zh-TW.md"
+    },
+    {
+      "title": "實驗室 3：佈建執行處理",
+      "description": "佈建實驗室環境",
+      "filename": "../../provision/provision_zh-TW.md"
+    },
+    {
+      "title": "需要協助嗎？",
+      "description": "接收即時說明常見問題的解決方案和指示",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+    },
+    {
+      "title": "您可能的其他 LiveLabs",
+      "description": "您可能的其他 LiveLabs",
+      "filename": "../../other-livelabs/other-livelabs_zh-TW.md"
+    }
+  ]
+}
