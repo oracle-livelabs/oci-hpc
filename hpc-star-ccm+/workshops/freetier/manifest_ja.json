@@ -1,0 +1,61 @@
+{
+    "workshoptitle": "High Performance Compute - Siemens Simcenter STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "概要",
+            "description": "Oracle HPCの概要",
+            "filename": "../../intro/intro_ja.md"
+        },
+        {
+            "title": "開始",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "Siemens STAR-CCMの概要",
+            "description": "ソフトウェアの紹介",
+            "filename": "../../starCCM-intro/starCCM-intro_ja.md"
+        },
+        {
+            "title": "演習1: SSH鍵の生成- Cloud Shell",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-cloud-shell/generate-ssh-keys-cloud-shell_ja.md"
+        },
+        {
+            "title": "演習2: HPCクラスタ・ネットワークの起動",
+            "description": "HPCクラスタ・ネットワークを起動するステップ",
+            "filename": "../../launch-cluster/launch-cluster_ja.md"
+        },
+        {
+            "title": "演習3: クラスタへのアクセス",
+            "description": "クラスタにアクセスするステップ",
+            "filename": "../../access-cluster/access-cluster_ja.md"
+        },
+        {
+            "title": "演習4: ビジュアライゼーションの構成",
+            "description": "ビジュアライゼーション・ツールの設定および構成",
+            "filename": "../../config-visualization/config-visualization_ja.md"
+        },
+        {
+            "title": "演習5: VNCへのアクセス",
+            "description": "VNCにアクセスするステップ",
+            "filename": "../../access-VNC/access-VNC_ja.md"
+        },
+        {
+            "title": "演習6: STAR-CCMのインストール",
+            "filename": "../../install/install_ja.md"
+        },
+        {
+            "title": "演習7: STAR-CCMの実行",
+            "filename": "../../run/run_ja.md"
+        },
+        {
+            "title": "ベンチマークの例",
+            "filename": "../../benchmark/benchmark_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
