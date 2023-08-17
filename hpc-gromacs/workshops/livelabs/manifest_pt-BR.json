@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "Computação de Alto Desempenho - GROMACS",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introdução",
+            "description": "Pré-requisitos para LiveLabs (tenancies de propriedade da Oracle). O título do laboratório e o título do Menu de Conteúdo (o título acima) correspondem ao laboratório de Pré-requisito. Este laboratório é sempre o primeiro.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "description": "Breve Introdução ao Oracle HPC",
+            "filename": "../../hpc-introduction/hpc-introduction_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Adicionar Instalador do Gromacs ao Armazenamento de Objetos",
+            "description": "Adicionar Instalador do Gromacs ao Serviço Object Storage",
+            "filename": "../../obj-storage/obj-storage_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Resource Manager",
+            "description": "Gerenciador de Recursos",
+            "filename": "../../rsc-manager/rsc-manager_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Selecionar Variáveis",
+            "description": "Selecionar Variáveis",
+            "filename": "../../select-variables/select-variables_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Execute a Pilha",
+            "filename": "../../run-stack/run-stack_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 5: Acessar seu Nó GPU",
+            "filename": "../../access-gpu/access-gpu_pt-BR.md"
+        },
+        {
+            "title": "Precisa de Ajuda?",
+            "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+        }
+    ]
+}
