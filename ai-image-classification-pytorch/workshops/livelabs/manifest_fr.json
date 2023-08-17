@@ -1,0 +1,39 @@
+{
+  "workshoptitle": "Introduction à Computer Vision à l'aide de PyTorch",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introduction",
+            "description": "Obtenez un essai gratuit",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+        },
+        {
+            "title": "Présentation",
+            "description": "Etapes de configuration de l'environnement python et d'installation de pytorch",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Créer des clés SSH",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Configurer un réseau et une instance Compute",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Formation à un classificateur",
+            "description": "Exemple de code et explication pour chaque phase de classification d'image à l'aide de PyTorch",
+            "filename": "../../training-classifier/training-classifier_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Utilisation d'un GPU",
+            "description": "Modification du code de l'exercice précédent pour utiliser un GPU",
+            "filename": "../../utilizing-gpu/utilizing-gpu_fr.md"
+        },
+        {
+            "title": "Vous avez besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+        }
+    ]
+}
