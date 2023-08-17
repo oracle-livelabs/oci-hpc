@@ -1,0 +1,39 @@
+{
+  "workshoptitle": "PyTorchを使用したComputer Visionの開始",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "開始",
+            "description": "無料トライアルを入手",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "概要",
+            "description": "python環境の設定およびpytorchのインストール手順",
+            "filename": "../../introduction/introduction_ja.md"
+        },
+        {
+            "title": "演習1: SSHキーの作成",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_ja.md"
+        },
+        {
+            "title": "演習2: ネットワークおよびコンピュート・インスタンスの設定",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_ja.md"
+        },
+        {
+            "title": "演習3: 分類子のトレーニング",
+            "description": "PyTorchを使用したイメージ分類の各ステージのサンプル・コードおよび説明",
+            "filename": "../../training-classifier/training-classifier_ja.md"
+        },
+        {
+            "title": "演習4: GPUの使用",
+            "description": "前の演習のコードを変更してGPUを使用",
+            "filename": "../../utilizing-gpu/utilizing-gpu_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+        }
+    ]
+}
