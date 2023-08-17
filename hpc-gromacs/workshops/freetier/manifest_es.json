@@ -1,0 +1,43 @@
+{
+    "workshoptitle": "Recursos informáticos de alto rendimiento - GROMACS",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introducción",
+            "description": "Breve introducción sobre Oracle HPC",
+            "filename": "../../hpc-introduction/hpc-introduction_es.md"
+        },
+        {
+            "title": "Inicio",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+        },
+        {
+            "title": "Práctica 1: Adición del instalador de Gromacs al almacenamiento de objetos",
+            "description": "Adición del instalador de Gromacs a Object Storage",
+            "filename": "../../obj-storage/obj-storage_es.md"
+        },
+        {
+            "title": "Práctica 2: Gestor de Recursos",
+            "description": "Administrador de recursos",
+            "filename": "../../rsc-manager/rsc-manager_es.md"
+        },
+        {
+            "title": "Práctica 3: Selección de variables",
+            "description": "Seleccionar variables",
+            "filename": "../../select-variables/select-variables_es.md"
+        },
+        {
+            "title": "Práctica 4: Ejecución de la pila",
+            "filename": "../../run-stack/run-stack_es.md"
+        },
+        {
+            "title": "Práctica 5: Acceso a su nodo de GPU",
+            "filename": "../../access-gpu/access-gpu_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas e instrucciones comunes para recibir ayuda en directo",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+        }
+    ]
+}
