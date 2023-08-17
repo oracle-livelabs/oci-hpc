@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "OCI의 Faceswap",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+      {
+            "title": "시작",
+            "description": "이 실습에서는 OCI에 무료 계층 계정을 등록하는 단계에 대한 개요를 제공합니다.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+        },
+        {
+            "title": "워크샵 소개",
+            "description": "워크샵, Deepfake 및 faceswap 응용 프로그램에 대한 소개입니다.",
+            "filename": "../../Introduction-to-the-workshop/Introduction-to-the-workshop_ko.md"
+        },
+        {
+            "title": "실습 1: SSH 키 생성",
+            "description": "이 실습에서는 컴퓨팅 인스턴스에 연결하는 데 필요한 SSH 키를 생성하는 필수 및 선택적 단계를 안내합니다.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_ko.md"
+        },
+        {
+            "title": "실습 2: GPU 인스턴스 프로비전",
+            "description": "이 실습에서는 OCI에서 GPU 인스턴스를 실행하는 데 필요한 선택적 단계를 안내합니다.",
+            "filename": "../../Lab2/Lab2-Provision-a-GPU-instance_ko.md"
+        },
+        {
+            "title": "실습 3: VNC를 통해 설정 및 액세스",
+            "description": "이 실습에서는 VNC 클라이언트를 통해 Ubuntu 인스턴스를 설정하고 액세스하는 데 필요한 단계를 안내합니다(여기: TigerVNC).",
+            "filename": "../../Lab3/Set-up-and-access-through-VNC_ko.md"
+        },
+        {
+            "title": "실습 4: Faceswap 설치",
+            "description": "이 실습에서는 컴퓨팅 인스턴스에 Faceswap을 설치하는 데 필요한 선택적 단계를 안내합니다.",
+            "filename": "../../Lab4/Install-Faceswap_ko.md"
+        },
+        {
+            "title": "실습 5: Faceswap 실행",
+            "description": "이 실습에서는 컴퓨팅 인스턴스(터미널 및 GUI)에서 Faceswap을 실행하는 데 필요한 필수 단계와 선택적 단계를 안내합니다.",
+            "filename": "../../Lab5/Run-Faceswap_ko.md"
+        },
+        {
+            "title": "도움이 필요하십니까?",
+            "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ko.md"
+        }
+    ]
+}
