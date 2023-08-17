@@ -1,19 +1,19 @@
-# Hier Ihre WMS-ID hinzufügen
+# 在此處新增您的 WMS ID
 
-# Allgemeine Anforderungen
+# 一般需求
 
-1.  Informationen im Workshop sind angemessen und aktualisiert
-2.  Code ist korrekt und in Bearbeitung
-3.  Links sind korrekt
-4.  Stellen Sie sicher, dass Sie den Link "Hilfe-E-Mail" in manifest.json eingeben.
-5.  Stellen Sie sicher, dass WMS-URLs nach Bedarf aktualisiert werden, nachdem Ihr PR genehmigt wurde
+1.  工作坊資訊充足及更新
+2.  代碼正確且有效
+3.  連結正確
+4.  請確定您在 manifest.json 中輸入說明電子郵件連結
+5.  請確定在 PR 核准後視需要更新 WMS URL
 
-# Checkliste - Die vollständige Liste finden Sie im QS-Dokument.
+# 檢查清單 - 請參閱 QA 文件以取得完整清單
 
-Bestätigen Sie, dass vor dem Weiterleiten des PR Folgendes abgeschlossen ist
+請先確認下列項目已完成後再提交您的 PR
 
-*    Alle Dateinamen sind Kleinbuchstaben (einschließlich Ordner, Bilder, Dateien usw.)
-*    Dateinamen sind beschreibend
-*    Die Workshop-Ordnerstruktur sollte der im Beispielworkshop verwendeten Struktur ähneln (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
-*    Verwenden Sie mehrere Versionen (desktop/, sandbox/, tenancy/)? Stellen Sie sicher, dass jede von ihnen eine manifest.json und eine index.html enthält.
-*    Bildreferenzen in der Preisabschrift enthalten einen alternativen Text
+*    所有的檔案名稱皆為小寫 (包括資料夾、影像、檔案等)
+*    檔案名稱是描述性的
+*    您的研習資料夾結構應與範例研習中使用的結構類似 (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
+*    您是否使用多個版本 (桌面 /、封閉測試環境 /、租用戶 /)？確定每個項目都包含 manifest.json 和 index.html
+*    Markdown 中的影像參考包含替代文字
