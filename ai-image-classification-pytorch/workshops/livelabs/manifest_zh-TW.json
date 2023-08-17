@@ -1,0 +1,39 @@
+{
+  "workshoptitle": "使用 PyTorch 開始使用電腦願景",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "入門",
+            "description": "免費試用",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+        },
+        {
+            "title": "簡介",
+            "description": "設定 python 環境並安裝 pytorch 的步驟",
+            "filename": "../../introduction/introduction_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：建立 SSH 金鑰",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：設定網路和運算執行處理",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_zh-TW.md"
+        },
+        {
+            "title": "Lab 3：訓練分類器",
+            "description": "使用 PyTorch 的每個影像分類階段範例代碼與說明",
+            "filename": "../../training-classifier/training-classifier_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：使用 GPU",
+            "description": "修改上一個實驗室的程式碼以使用 GPU",
+            "filename": "../../utilizing-gpu/utilizing-gpu_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+    ]
+}
