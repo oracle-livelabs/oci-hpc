@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "Introduction à la prévision météorologique à l'aide de WRF",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Présentation",
+            "description": "Petit extrait sur WRF, prérequis et objectifs pour ce laboratoire.",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "description": "Obtenez un essai gratuit",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Créer des clés SSH",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Configurer un réseau et une instance Compute",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Configuration, installation et exécution de WRF/WPS",
+            "description": "Guide simple sur la configuration, la configuration et l'exécution de WRF sur OCI",
+            "filename": "../../wrf-wps-setup-install-run/wrf-wps-setup-install-run_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Modifier les données d'expérience avec WRF",
+            "description": "Modification du guide de l'exercice précédent pour choisir de nouveaux emplacements et de nouvelles heures pour exécuter des simulations WRF",
+            "filename": "../../wrf-change-experiments/wrf-change-experiments_fr.md"
+        },
+        {
+            "title": "Exercice 5 : Installation, configuration et exécution de WRF/WPS sur un cluster HPC",
+            "description": "Guide sur la configuration, la configuration et l'exécution de WRF sur un cluster HPC à deux noeuds sur OCI",
+            "filename": "../../wrf-wps-setup-install-run-cluster/wrf-wps-setup-install-run-cluster_fr.md"
+        },
+        {
+            "title": "Vous avez besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+    ]
+}
