@@ -1,19 +1,19 @@
-# Hier Ihre WMS-ID hinzufügen
+# ここにWMS IDを追加
 
-# Allgemeine Anforderungen
+# 一般的な要件
 
-1.  Informationen im Workshop sind angemessen und aktualisiert
-2.  Code ist korrekt und in Bearbeitung
-3.  Links sind korrekt
-4.  Stellen Sie sicher, dass Sie den Link "Hilfe-E-Mail" in manifest.json eingeben.
-5.  Stellen Sie sicher, dass WMS-URLs nach Bedarf aktualisiert werden, nachdem Ihr PR genehmigt wurde
+1.  ワークショップの情報は適切で更新されています
+2.  コードが正しく動作しています
+3.  リンクが正しい
+4.  ヘルプ電子メール・リンクをmanifest.jsonに入力してください
+5.  PRが承認された後、必要に応じてWMS URLが更新されていることを確認してください
 
-# Checkliste - Die vollständige Liste finden Sie im QS-Dokument.
+# チェックリスト- 全リストについてはQAドキュメントを参照してください
 
-Bestätigen Sie, dass vor dem Weiterleiten des PR Folgendes abgeschlossen ist
+PRを送信する前に、次の事項が完了していることを確認してください
 
-*    Alle Dateinamen sind Kleinbuchstaben (einschließlich Ordner, Bilder, Dateien usw.)
-*    Dateinamen sind beschreibend
-*    Die Workshop-Ordnerstruktur sollte der im Beispielworkshop verwendeten Struktur ähneln (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
-*    Verwenden Sie mehrere Versionen (desktop/, sandbox/, tenancy/)? Stellen Sie sicher, dass jede von ihnen eine manifest.json und eine index.html enthält.
-*    Bildreferenzen in der Preisabschrift enthalten einen alternativen Text
+*    ファイル名はすべて小文字(フォルダ、イメージ、ファイルなど)です。
+*    ファイル名は説明的です
+*    ワークショップのフォルダ構造は、サンプル・ワークショップ(https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)で使用される構造と似ている必要があります
+*    複数のバージョン(デスクトップ/、サンドボックス/、テナンシ/)を使用していますか?それぞれにmanifest.jsonおよびindex.htmlが含まれていることを確認します
+*    マークダウンのイメージ参照に代替テキストが含まれています
