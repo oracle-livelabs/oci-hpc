@@ -1,0 +1,36 @@
+{
+  "workshoptitle": "Der Titel des Workshops wird im Manifest definiert",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Die Einführung ist immer zweite für LiveLabs. Titel des Menüs \"Titel\" und \"Inhalt\" stimmen für die Einführung überein.",
+      "filename": "../../introduction/introduction_de.md"
+    },
+    {
+      "title": "Übung 1: Umgebungssetup",
+      "description": "Setup der Compute-Instanz prüfen",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_de.md"
+    },
+    {
+      "title": "Übung 2: Umgebung initialisieren",
+      "description": "Umgebung initialisieren",
+      "filename": "../../initialize-environment/initialize-environment_de.md"
+    },
+    {
+      "title": "Übung 3: Instanz bereitstellen",
+      "description": "Übungsumgebung bereitstellen",
+      "filename": "../../provision/provision_de.md"
+    },
+    {
+      "title": "Weitere Informationen",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+    },
+    {
+      "title": "Andere LiveLabs, die Ihnen gefallen könnten",
+      "description": "Andere LiveLabs, die Ihnen gefallen könnten",
+      "filename": "../../other-livelabs/other-livelabs_de.md"
+    }
+  ]
+}
