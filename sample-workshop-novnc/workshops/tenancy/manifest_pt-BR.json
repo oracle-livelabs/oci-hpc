@@ -1,0 +1,61 @@
+{
+  "workshoptitle": "O Título do Workshop é Definido no Arquivo de Manifesto",
+  "include": {
+    "starter-file.sql": "../../data-load/files/starter-file.sql",
+    "sample.json": "../../data-load/files/sample.json",
+    "step2_pt-BR.md": "../../data-load/files/step2_pt-BR.md"
+  },
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introdução",
+      "description": "A Introdução é sempre a primeira. O título e o título do menu de conteúdo correspondem à Introdução.",
+      "filename": "../../introduction/introduction_pt-BR.md"
+    },
+    {
+      "title": "Introdução",
+      "description": "Este é o pré-requisito para clientes que usam tenancies de Avaliação Gratuita e Pagas e contas Always Free (se aplicável). O título do laboratório e o título do Menu de Conteúdo (o título acima) correspondem ao laboratório de Pré-requisito. Este laboratório é sempre o primeiro.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 1: Preparar Configuração",
+      "description": "Como fazer download da pilha do ORM e atualizar regras de segurança para uma VCN existente",
+      "filename": "../../prepare-setup/prepare-setup_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 2: Configuração do Ambiente",
+      "description": "Como provisionar o ambiente do workshop e estabelecer conexão com ele",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 3: Inicializar Ambiente",
+      "description": "Inicializar Ambiente",
+      "filename": "../../initialize-environment/initialize-environment_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 4: Provisionar uma Instância",
+      "description": "Provisionando o Ambiente de Laboratório",
+      "filename": "../../provision/provision_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 5: Carregar Dados em uma Instância",
+      "description": "Carregamento dos dados",
+      "filename": "../../data-load/data-load_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 6: Dados de Consulta",
+      "description": "Queyring os dados",
+      "filename": "../../query/query_pt-BR.md"
+    },
+    {
+      "title": "Precisa de Ajuda?",
+      "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+    },
+    {
+      "title": "Outro LiveLabs que você pode gostar",
+      "description": "Outro LiveLabs que você pode gostar",
+      "filename": "../../other-livelabs/other-livelabs_pt-BR.md"
+    }
+  ]
+}
