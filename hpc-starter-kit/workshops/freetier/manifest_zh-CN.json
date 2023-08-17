@@ -1,0 +1,41 @@
+{
+    "workshoptitle": "高性能计算 - Siemens STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "简介",
+            "description": "简介总是第二。“简介”的标题和内容菜单标题匹配。",
+            "filename": "../../introduction/introduction_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-CN.md"
+        },
+        {
+            "title": "实验室 1：生成 SSH 密钥",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_zh-CN.md"
+        },
+        {
+            "title": "实验室 2：从 Oracle 市场映像预配 HPC 集群",
+            "description": "介绍之后的实验室从实验室 1 开始进行编号",
+            "filename": "../../provision/provision_zh-CN.md"
+        },
+        {
+            "title": "实验 3：使用 OCI CLI 命令和 Terraform 与 HPC 协同工作",
+            "filename": "../../cli-terraform/cli-terraform_zh-CN.md"
+        },
+        {
+            "title": "实验 4-1：在 HPC 集群中运行 OpenFoam 项目",
+            "filename": "../../openfoam-hpc/openfoam-hpc_zh-CN.md"
+        },
+        {
+            "title": "实验室 4-2：在 OCI 上的标准 VM 中运行 OpenFoam 项目",
+            "filename": "../../openfoam-vm/openfoam-vm_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "用于接收实时帮助的常见问题和方向的解决方案",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+        }
+    ]
+}
