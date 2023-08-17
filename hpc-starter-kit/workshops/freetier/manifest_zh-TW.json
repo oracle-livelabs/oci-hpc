@@ -1,0 +1,41 @@
+{
+    "workshoptitle": "高效能運算 - Siemens STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "簡介",
+            "description": "「簡介 (Introduction)」一律為秒。「簡介」的標題和內容功能表標題相符。",
+            "filename": "../../introduction/introduction_zh-TW.md"
+        },
+        {
+            "title": "入門",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：產生 SSH 金鑰",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：從 Oracle Marketplace 映像檔佈建 HPC 叢集",
+            "description": "介紹後的實驗室從 Lab 1 開始編號",
+            "filename": "../../provision/provision_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：使用 OCI CLI 命令和 Terraform 處理 HPC",
+            "filename": "../../cli-terraform/cli-terraform_zh-TW.md"
+        },
+        {
+            "title": "Lab 4-1：在 HPC 叢集中執行 OpenFoam 專案",
+            "filename": "../../openfoam-hpc/openfoam-hpc_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4-2：在 OCI 上的標準 VM 中執行 OpenFoam 專案",
+            "filename": "../../openfoam-vm/openfoam-vm_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+    ]
+}
