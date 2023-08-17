@@ -1,0 +1,61 @@
+{
+    "workshoptitle": "高效能運算 - Siemens Simcenter STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "簡介",
+            "description": "Oracle HPC 簡介",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "入門",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+        },
+        {
+            "title": "Siemens STAR-CCM 介紹",
+            "description": "軟體簡介",
+            "filename": "../../starCCM-intro/starCCM-intro_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：產生 SSH 金鑰 - Cloud Shell",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-cloud-shell/generate-ssh-keys-cloud-shell_zh-TW.md"
+        },
+        {
+            "title": "Lab 2：啟動 HPC 叢集網路",
+            "description": "啟動 HPC 叢集網路的步驟",
+            "filename": "../../launch-cluster/launch-cluster_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：存取您的叢集",
+            "description": "存取叢集的步驟",
+            "filename": "../../access-cluster/access-cluster_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：設定視覺化",
+            "description": "設定及設定視覺化工具",
+            "filename": "../../config-visualization/config-visualization_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：存取您的 VNC",
+            "description": "存取 VNC 的步驟",
+            "filename": "../../access-VNC/access-VNC_zh-TW.md"
+        },
+        {
+            "title": "Lab 6：安裝 STAR-CCM",
+            "filename": "../../install/install_zh-TW.md"
+        },
+        {
+            "title": "實驗室 7：執行 STAR-CCM",
+            "filename": "../../run/run_zh-TW.md"
+        },
+        {
+            "title": "指標範例",
+            "filename": "../../benchmark/benchmark_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+        }
+    ]
+}
