@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "High Performance Compute - GROMACS",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für LiveLabs (Oracle-Mandanten). Der Titel der Übung und der Titel des Menüs \"Inhalt\" (der Titel oben) stimmen für die erforderliche Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_de.md"
+        },
+        {
+            "title": "Einführung",
+            "description": "Kurzeinführung in Oracle HPC",
+            "filename": "../../hpc-introduction/hpc-introduction_de.md"
+        },
+        {
+            "title": "Übung 1: Gromacs-Installationsprogramm zu Object Storage hinzufügen",
+            "description": "Gromacs-Installationsprogramm zu Object Storage hinzufügen",
+            "filename": "../../obj-storage/obj-storage_de.md"
+        },
+        {
+            "title": "Übung 2: Ressourcenmanager",
+            "description": "Ressourcenmanager",
+            "filename": "../../rsc-manager/rsc-manager_de.md"
+        },
+        {
+            "title": "Übung 3: Variablen auswählen",
+            "description": "Variablen auswählen",
+            "filename": "../../select-variables/select-variables_de.md"
+        },
+        {
+            "title": "Übung 4: Stack ausführen",
+            "filename": "../../run-stack/run-stack_de.md"
+        },
+        {
+            "title": "Übung 5: Auf GPU-Knoten zugreifen",
+            "filename": "../../access-gpu/access-gpu_de.md"
+        },
+        {
+            "title": "Weitere Informationen",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
