@@ -1,19 +1,19 @@
-# Adicione aqui seu ID do WMS
+# 在此处添加您的 WMS ID
 
-# Requisitos gerais
+# 一般要求
 
-1.  As informações contidas no workshop são adequadas e atualizadas
-2.  O código está correto e funcionando
-3.  Os links estão corretos
-4.  Certifique-se de digitar o link do e-mail de ajuda em manifest.json
-5.  Certifique-se de que as URLs do WMS sejam atualizadas conforme necessário depois que seu PR for aprovado
+1.  讲习班中的资料足够和更新
+2.  代码正确且正常工作
+3.  链接正确
+4.  确保在 manifest.json 中输入帮助电子邮件链接
+5.  请确保在批准 PR 后根据需要更新 WMS URL
 
-# Lista de verificação - Consulte o documento de CQ para obter a lista completa
+# 核对清单 - 有关完整列表，请参阅 QA 文档
 
-Confirme se o seguinte está concluído antes de enviar o PR
+请在提交您的 PR 之前确认以下项已完成
 
-*    Todos os nomes de arquivo são minúsculos (incluindo pastas, imagens, arquivos etc.)
-*    Os nomes de arquivo são descritivos
-*    A estrutura de pastas do workshop deve ser semelhante à usada no workshop de amostra (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
-*    Você está usando várias versões (área de trabalho/, sandbox/, tenancy/)? Certifique-se de que cada um deles contenha um manifest.json e um index.html
-*    As referências de imagem em markdown contêm um texto alternativo
+*    所有文件名都是小写（包括文件夹、图像、文件等）
+*    文件名是说明性的
+*    工作室文件夹结构应与示例研讨会中使用的结构类似 (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
+*    您在使用多个版本（桌面/、沙盒/、租户/）吗？请确保其中每个都包含 manifest.json 和 index.html
+*    标记中的图像引用包含替代文本
