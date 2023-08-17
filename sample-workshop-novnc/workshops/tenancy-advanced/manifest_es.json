@@ -1,0 +1,57 @@
+{
+  "workshoptitle": "El título del taller se define en el archivo de manifiesto",
+  "include": {
+    "starter-file.sql": "../../data-load/files/starter-file.sql",
+    "sample.json": "../../data-load/files/sample.json",
+    "step2_es.md": "../../data-load/files/step2_es.md"
+  },
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "La introducción siempre es la primera. El título y el título del menú de contenido coinciden con la introducción.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Inicio",
+      "description": "Estos son los requisitos para los clientes que utilizan arrendamientos de prueba gratuita y de pago, y cuentas Siempre gratis (si corresponde). El título de la práctica y el título del menú Contents (el título anterior) coinciden con la práctica de requisitos previos. Este laboratorio siempre es el primero.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+    },
+    {
+      "title": "Práctica 1: Preparación de la Configuración",
+      "description": "Cómo descargar la pila de ORM y actualizar las reglas de seguridad de una VCN existente",
+      "filename": "../../prepare-setup/prepare-setup_es.md"
+    },
+    {
+      "title": "Práctica 2: Configuración del entorno",
+      "description": "Cómo aprovisionar el entorno del taller y conectarse a él",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_es.md",
+      "type": "advanced"
+    },
+    {
+      "title": "Práctica 2: Inicialización del entorno",
+      "description": "Inicializar entorno",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Práctica 3: Carga de datos en una instancia",
+      "description": "Carga de los datos",
+      "filename": "../../data-load/data-load_es.md"
+    },
+    {
+      "title": "Práctica 4: Datos de Consulta",
+      "description": "Queyring de los datos",
+      "filename": "../../query/query_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas e instrucciones comunes para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_es.md"
+    },
+    {
+      "title": "Otro LiveLabs que puede desear",
+      "description": "Otro LiveLabs que puede desear",
+      "filename": "../../other-livelabs/other-livelabs_es.md"
+    }
+  ]
+}
