@@ -1,0 +1,32 @@
+{
+  "workshoptitle": "Exécution de projets OpenFOAM sur un cluster HPC et une machine virtuelle standard sur OCI",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Présentation",
+            "description": "L'introduction est toujours seconde. Le titre et le titre du menu Contenu correspondent à l'introduction.",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Générer des clés SSH",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Exécution de projets OpenFoam sur un cluster HPC",
+            "filename": "../../openfoam-hpc/openfoam-hpc_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Exécuter des projets OpenFoam sur une machine virtuelle standard sur OCI",
+            "filename": "../../openfoam-vm/openfoam-vm_fr.md"
+        },
+        {
+            "title": "Vous avez besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+    ]
+}
