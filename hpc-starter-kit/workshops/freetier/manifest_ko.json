@@ -1,0 +1,41 @@
+{
+    "workshoptitle": "고성능 컴퓨팅 - Siemens STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "소개",
+            "description": "소개는 항상 두 번째입니다. 소개에 대한 제목 및 내용 메뉴 제목이 일치합니다.",
+            "filename": "../../introduction/introduction_ko.md"
+        },
+        {
+            "title": "시작",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+        },
+        {
+            "title": "실습 1: SSH 키 생성",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_ko.md"
+        },
+        {
+            "title": "실습 2: Oracle Marketplace 이미지에서 HPC 클러스터 프로비전",
+            "description": "소개 뒤에 나오는 실습은 실습 1부터 번호가 매겨집니다.",
+            "filename": "../../provision/provision_ko.md"
+        },
+        {
+            "title": "실습 3: OCI CLI 명령 및 Terraform을 사용하여 HPC 작업",
+            "filename": "../../cli-terraform/cli-terraform_ko.md"
+        },
+        {
+            "title": "실습 4-1: HPC 클러스터에서 OpenFoam 프로젝트 실행",
+            "filename": "../../openfoam-hpc/openfoam-hpc_ko.md"
+        },
+        {
+            "title": "실습 4-2: OCI의 Standard VM에서 OpenFoam 프로젝트 실행",
+            "filename": "../../openfoam-vm/openfoam-vm_ko.md"
+        },
+        {
+            "title": "도움이 필요하십니까?",
+            "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+        }
+    ]
+}
