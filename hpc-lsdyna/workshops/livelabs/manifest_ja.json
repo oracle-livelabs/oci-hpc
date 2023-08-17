@@ -1,0 +1,54 @@
+{
+    "workshoptitle": "High Performance Compute - LS-Dynaランブック",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "開始",
+            "description": "LiveLabsの前提条件(Oracle所有のテナンシ)。ラボのタイトルとコンテンツ・メニューのタイトル(前述のタイトル)は、前提条件ラボと一致します。この演習は常に最初です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_ja.md"
+        },
+        {
+            "title": "概要",
+            "description": "Oracle HPCの概要",
+            "filename": "../../intro/intro_ja.md"
+        },
+        {
+            "title": "LS-DYNAの概要",
+            "description": "ソフトウェアの紹介",
+            "filename": "../../ls-dyna/ls-dyna-intro_ja.md"
+        },
+        {
+            "title": "演習1: HPCクラスタ・ネットワークの起動",
+            "description": "HPCクラスタ・ネットワークを起動するステップ",
+            "filename": "../../launch-cluster/launch-cluster_ja.md"
+        },
+        {
+            "title": "演習2: クラスタへのアクセス",
+            "description": "クラスタにアクセスするステップ",
+            "filename": "../../access-cluster/access-cluster_ja.md"
+        },
+        {
+            "title": "演習3: ビジュアライゼーションの構成",
+            "description": "ビジュアライゼーション・ツールの設定および構成",
+            "filename": "../../config-visualization/config-visualization_ja.md"
+        },
+        {
+            "title": "演習4: VNCへのアクセス",
+            "description": "VNCにアクセスするステップ",
+            "filename": "../../access-VNC/access-VNC_ja.md"
+        },
+        {
+            "title": "演習5: LS-DYNAのインストール",
+            "filename": "../../install/install_ja.md"
+        },
+        {
+            "title": "演習6: LS-DYNAの実行",
+            "filename": "../../run/run_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+        }
+    ]
+}
