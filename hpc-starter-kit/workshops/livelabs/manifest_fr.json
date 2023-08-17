@@ -1,0 +1,42 @@
+{
+  "workshoptitle": "Calcul hautes performances - Siemens STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introduction",
+            "description": "Prérequis pour LiveLabs (locations détenues par Oracle). Le titre de l'exercice et le titre du menu Sommaire (titre ci-dessus) correspondent à l'exercice Prérequis. Cet exercice est toujours le premier.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_fr.md"
+        },
+        {
+            "title": "Présentation",
+            "description": "L'introduction est toujours seconde. Le titre et le titre du menu Contenu correspondent à l'introduction.",
+            "filename": "../../introduction/introduction_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Générer des clés SSH",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Provisionner un cluster HPC à partir d'une image Oracle Marketplace",
+            "description": "Les exercices qui suivent l'introduction sont numérotés, en commençant par l'atelier 1.",
+            "filename": "../../provision/provision_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Utilisation des commandes de l'interface de ligne de commande OCI et d'Terraform avec HPC",
+            "filename": "../../cli-terraform/cli-terraform_fr.md"
+        },
+        {
+            "title": "Exercice 4-1 : Exécuter des projets OpenFoam dans un cluster HPC",
+            "filename": "../../openfoam-hpc/openfoam-hpc_fr.md"
+        },
+        {
+            "title": "Exercice 4-2 : Exécuter le projet OpenFoam dans une machine virtuelle standard sur OCI",
+            "filename": "../../openfoam-vm/openfoam-vm_fr.md"
+        },
+        {
+            "title": "Vous avez besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+        }
+    ]
+}
