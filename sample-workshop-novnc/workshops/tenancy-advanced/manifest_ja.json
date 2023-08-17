@@ -1,0 +1,57 @@
+{
+  "workshoptitle": "ワークショップのタイトルはマニフェスト・ファイルに定義されます",
+  "include": {
+    "starter-file.sql": "../../data-load/files/starter-file.sql",
+    "sample.json": "../../data-load/files/sample.json",
+    "step2_ja.md": "../../data-load/files/step2_ja.md"
+  },
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "概要",
+      "description": "はじめにいつも一番。「概要」のタイトルとコンテンツ・メニューのタイトルが一致します。",
+      "filename": "../../introduction/introduction_ja.md"
+    },
+    {
+      "title": "開始",
+      "description": "これは、無料トライアルおよび有料テナンシおよびAlways Freeアカウント(該当する場合)を使用するお客様の前提条件です。ラボのタイトルとコンテンツ・メニューのタイトル(前述のタイトル)は、前提条件ラボと一致します。この演習は常に最初です。",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+    },
+    {
+      "title": "演習1: 設定の準備",
+      "description": "ORMスタックをダウンロードし、既存のVCNのセキュリティ・ルールを更新する方法",
+      "filename": "../../prepare-setup/prepare-setup_ja.md"
+    },
+    {
+      "title": "演習2: 環境の設定",
+      "description": "ワークショップ環境のプロビジョニング方法とそれへの接続方法",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_ja.md",
+      "type": "advanced"
+    },
+    {
+      "title": "演習2: 環境の初期化",
+      "description": "環境の初期化",
+      "filename": "../../initialize-environment/initialize-environment_ja.md"
+    },
+    {
+      "title": "演習3: インスタンスへのデータのロード",
+      "description": "データのロード",
+      "filename": "../../data-load/data-load_ja.md"
+    },
+    {
+      "title": "演習4: データの問合せ",
+      "description": "データのキューイング",
+      "filename": "../../query/query_ja.md"
+    },
+    {
+      "title": "サポートが必要ですか。",
+      "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+    },
+    {
+      "title": "その他のLiveLabs",
+      "description": "その他のLiveLabs",
+      "filename": "../../other-livelabs/other-livelabs_ja.md"
+    }
+  ]
+}
