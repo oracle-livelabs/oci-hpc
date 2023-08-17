@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "Faceswap en OCI",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+      {
+            "title": "Inicio",
+            "description": "En este laboratorio se proporciona una visión general de los pasos para registrar una cuenta de nivel gratuito en OCI.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+        },
+        {
+            "title": "Introducción al taller",
+            "description": "Se trata de una introducción al taller, el tema de la falsificación profunda y la aplicación de intercambio de caras.",
+            "filename": "../../Introduction-to-the-workshop/Introduction-to-the-workshop_es.md"
+        },
+        {
+            "title": "Práctica 1: Creación de claves SSH",
+            "description": "En este laboratorio se muestran los pasos necesarios y opcionales para crear claves SSH que necesitará para conectarse a su instancia informática.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_es.md"
+        },
+        {
+            "title": "Práctica 2: Aprovisionar instancia de GPU",
+            "description": "De esta forma, realizará los pasos necesarios y opcionales para iniciar una instancia de GPU en OCI.",
+            "filename": "../../Lab2/Lab2-Provision-a-GPU-instance_es.md"
+        },
+        {
+            "title": "Práctica 3: Configuración y acceso a través de VNC",
+            "description": "En este laboratorio se mostrarán los pasos necesarios para configurar y acceder a su instancia de Ubuntu a través de un cliente VNC (aquí: TigerVNC).",
+            "filename": "../../Lab3/Set-up-and-access-through-VNC_es.md"
+        },
+        {
+            "title": "Práctica 4: Instalación de Faceswap",
+            "description": "En este laboratorio se analizarán los pasos necesarios y opcionales para instalar Faceswap en la instancia informática.",
+            "filename": "../../Lab4/Install-Faceswap_es.md"
+        },
+        {
+            "title": "Práctica 5: Run Faceswap",
+            "description": "En este laboratorio se mostrarán los pasos necesarios y opcionales para ejecutar Faceswap en la instancia informática (terminal y GUI).",
+            "filename": "../../Lab5/Run-Faceswap_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas e instrucciones comunes para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+        }
+    ]
+}
