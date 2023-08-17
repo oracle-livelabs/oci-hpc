@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "Introducción a la predicción meteorológica mediante WRF",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Inicio",
+            "description": "Obtenga una prueba gratuita",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_es.md"
+        },
+        {
+            "title": "Introducción",
+            "description": "Pequeño extracto sobre WRF, prequsitas y objetivos para este laboratorio.",
+            "filename": "../../introduction/introduction_es.md"
+        },
+        {
+            "title": "Práctica 1: Creación de claves SSH",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_es.md"
+        },
+        {
+            "title": "Práctica 2: Configuración de la red y la instancia informática",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_es.md"
+        },
+        {
+            "title": "Práctica 3: Instalación, configuración y ejecución de WRF/WPS",
+            "description": "Guía sencilla sobre la configuración, configuración y ejecución de WRF en OCI",
+            "filename": "../../wrf-wps-setup-install-run/wrf-wps-setup-install-run_es.md"
+        },
+        {
+            "title": "Laboratorio 4: Cambio de datos de experimento con WRF",
+            "description": "Modificar la guía del laboratorio anterior para seleccionar nuevas ubicaciones y tiempos para ejecutar simulaciones de WRF",
+            "filename": "../../wrf-change-experiments/wrf-change-experiments_es.md"
+        },
+        {
+            "title": "Práctica 5: Instalación, configuración y ejecución de WRF/WPS en cluster de HPC",
+            "description": "Guía para configurar, configurar y ejecutar WRF en un cluster de HPC de dos nodos en OCI",
+            "filename": "../../wrf-wps-setup-install-run-cluster/wrf-wps-setup-install-run-cluster_es.md"
+        },
+        {
+            "title": "¿Necesita Ayuda?",
+            "description": "Soluciones a problemas e instrucciones comunes para recibir ayuda en directo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+        }
+    ]
+}
