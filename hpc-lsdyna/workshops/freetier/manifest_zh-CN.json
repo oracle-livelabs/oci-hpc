@@ -1,0 +1,53 @@
+{
+    "workshoptitle": "高性能计算 - LS-Dyna 运行手册",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "简介",
+            "description": "Oracle HPC 简介",
+            "filename": "../../intro/intro_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-CN.md"
+        },
+        {
+            "title": "LS-DYNA 简介",
+            "description": "软件介绍",
+            "filename": "../../ls-dyna/ls-dyna-intro_zh-CN.md"
+        },
+        {
+            "title": "实验 1：启动 HPC 集群网络",
+            "description": "启动 HPC 集群网络的步骤",
+            "filename": "../../launch-cluster/launch-cluster_zh-CN.md"
+        },
+        {
+            "title": "练习 2：访问集群",
+            "description": "访问集群的步骤",
+            "filename": "../../access-cluster/access-cluster_zh-CN.md"
+        },
+        {
+            "title": "练习 3：配置可视化",
+            "description": "设置和配置可视化工具",
+            "filename": "../../config-visualization/config-visualization_zh-CN.md"
+        },
+        {
+            "title": "实验室 4：访问您的 VNC",
+            "description": "访问 VNC 的步骤",
+            "filename": "../../access-VNC/access-VNC_zh-CN.md"
+        },
+        {
+            "title": "实验 5：安装 LS-DYNA",
+            "filename": "../../install/install_zh-CN.md"
+        },
+        {
+            "title": "实验室 6：运行 LS-DYNA",
+            "filename": "../../run/run_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "用于接收实时帮助的常见问题和方向的解决方案",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+        }
+    ]
+}
