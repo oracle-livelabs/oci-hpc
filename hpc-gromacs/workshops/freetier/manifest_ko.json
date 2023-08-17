@@ -1,0 +1,43 @@
+{
+    "workshoptitle": "고성능 컴퓨트 - GROMACS",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "소개",
+            "description": "Oracle HPC에 대한 간략한 소개",
+            "filename": "../../hpc-introduction/hpc-introduction_ko.md"
+        },
+        {
+            "title": "시작",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+        },
+        {
+            "title": "실습 1: 오브젝트 스토리지에 Gromacs 설치 프로그램 추가",
+            "description": "오브젝트 스토리지에 Gromacs 설치 프로그램 추가",
+            "filename": "../../obj-storage/obj-storage_ko.md"
+        },
+        {
+            "title": "실습 2: 자원 관리자",
+            "description": "리소스 관리자",
+            "filename": "../../rsc-manager/rsc-manager_ko.md"
+        },
+        {
+            "title": "실습 3: 변수 선택",
+            "description": "변수 선택",
+            "filename": "../../select-variables/select-variables_ko.md"
+        },
+        {
+            "title": "실습 4: 스택 실행",
+            "filename": "../../run-stack/run-stack_ko.md"
+        },
+        {
+            "title": "실습 5: GPU 노드에 액세스",
+            "filename": "../../access-gpu/access-gpu_ko.md"
+        },
+        {
+            "title": "도움이 필요하십니까?",
+            "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+        }
+    ]
+}
