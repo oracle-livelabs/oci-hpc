@@ -20,13 +20,13 @@ Una red de cluster es un pool de instancias informáticas de alto rendimiento (H
 
 Los recursos informáticos de alto rendimiento se ofrecen en Oracle Cloud Infrastructure, en regiones de OCI.
 
-Instancia informática de alto rendimiento disponible en la imagen de Oracle Marketplace y BM.HPC2.36 en OCI.
+Instancia informática de alto rendimiento disponible en Oracle Marketplace Image y BM.HPC2.36 en OCI.
 
 El rack de recursos informáticos de alto rendimiento en la imagen de Oracle Marketplace incluye nodos de cluster de HPC, red de cluster y recurso compartido NFS.
 
 Los nodos de cálculo se conectan mediante una red de cluster que proporciona acceso de almacenamiento basado en RDMA a los nodos de cálculo.
 
-Actualmente, se admite una sola BM por nodo de cálculo. Permite el acceso raíz a los clientes a la vez que protege el hardware y la red, los nodos de cálculo se virtualizan mediante BM.HPC2.36.
+Actualmente, se admite una sola BM por nodo de cálculo. Permite el acceso raíz a los clientes a la vez que protege el hardware y la red, los nodos de cálculo se virtualizan con BM.HPC2.36.
 
 ### Objetivos
 
