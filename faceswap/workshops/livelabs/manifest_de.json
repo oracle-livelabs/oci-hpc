@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "Faceswap auf OCI",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+      {
+            "title": "Erste Schritte",
+            "description": "Diese Übung enthält einen Überblick über die Schritte zum Registrieren eines Free Tier-Accounts auf OCI.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Einführung in den Workshop",
+            "description": "Dies ist eine Einführung in den Workshop, das Thema Deepfake und die Anwendung von Facewap.",
+            "filename": "../../Introduction-to-the-workshop/Introduction-to-the-workshop_de.md"
+        },
+        {
+            "title": "Übung 1: SSH-Schlüssel erstellen",
+            "description": "In dieser Übung werden die erforderlichen und optionalen Schritte zum Erstellen von SSH-Schlüsseln beschrieben, die Sie für die Verbindung mit Ihrer Compute-Instanz benötigen.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_de.md"
+        },
+        {
+            "title": "Übung 2: GPU-Instanz bereitstellen",
+            "description": "In dieser Übung führen Sie die erforderlichen und optionalen Schritte zum Starten einer GPU-Instanz auf OCI durch.",
+            "filename": "../../Lab2/Lab2-Provision-a-GPU-instance_de.md"
+        },
+        {
+            "title": "Übung 3: Setup und Zugriff über VNC",
+            "description": "In dieser Übung werden die erforderlichen Schritte zum Einrichten und Zugreifen auf die Ubuntu-Instanz über einen VNC-Client beschrieben (hier: TigerVNC).",
+            "filename": "../../Lab3/Set-up-and-access-through-VNC_de.md"
+        },
+        {
+            "title": "Übung 4: Faceswap installieren",
+            "description": "In dieser Übung werden die erforderlichen und optionalen Schritte zur Installation von Faceswap auf Ihrer Compute-Instanz erläutert.",
+            "filename": "../../Lab4/Install-Faceswap_de.md"
+        },
+        {
+            "title": "Übung 5: Faceswap ausführen",
+            "description": "In dieser Übung werden die erforderlichen und optionalen Schritte zur Ausführung von Faceswap auf Ihrer Compute-Instanz (Terminal und GUI) erläutert.",
+            "filename": "../../Lab5/Run-Faceswap_de.md"
+        },
+        {
+            "title": "Weitere Informationen",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
