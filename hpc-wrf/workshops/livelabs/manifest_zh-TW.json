@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "開始使用 WRF 進行天氣預測",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "入門",
+            "description": "免費試用",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+        },
+        {
+            "title": "簡介",
+            "description": "本實驗的 WRF、先決條件和目標小專家。",
+            "filename": "../../introduction/introduction_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：建立 SSH 金鑰",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：設定網路和運算執行處理",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3:WRF/WPS 安裝、設定及執行",
+            "description": "在 OCI 上設定、設定和執行 WRF 的簡單指南",
+            "filename": "../../wrf-wps-setup-install-run/wrf-wps-setup-install-run_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：使用 WRF 變更實驗資料",
+            "description": "修改上一個實驗室的導引以選擇新位置與執行 WRF 模擬的時間",
+            "filename": "../../wrf-change-experiments/wrf-change-experiments_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5:WRF/WPS 安裝、設定及執行 HPC 叢集",
+            "description": "關於在 OCI 上的兩個節點 HPC 叢集上設定、設定及執行 WRF 的指南",
+            "filename": "../../wrf-wps-setup-install-run-cluster/wrf-wps-setup-install-run-cluster_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+    ]
+}
