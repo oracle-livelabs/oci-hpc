@@ -1,19 +1,19 @@
-# ここにWMS IDを追加
+# Ajouter ici votre identifiant WMS
 
-# 一般的な要件
+# Exigences générales
 
-1.  ワークショップの情報は適切で更新されています
-2.  コードが正しく動作しています
-3.  リンクが正しい
-4.  ヘルプ電子メール・リンクをmanifest.jsonに入力してください
-5.  PRが承認された後、必要に応じてWMS URLが更新されていることを確認してください
+1.  Les informations contenues dans l'atelier sont suffisantes et actualisées
+2.  Le code est correct et fonctionne
+3.  Les liens sont corrects
+4.  Veillez à saisir le lien du courriel d'aide dans votre manifest.json
+5.  Assurez-vous que les URL WMS sont mises à jour si nécessaire après l'approbation de votre demande d'achat
 
-# チェックリスト- 全リストについてはQAドキュメントを参照してください
+# Liste de contrôle - Reportez-vous au document d'assurance qualité pour obtenir la liste complète
 
-PRを送信する前に、次の事項が完了していることを確認してください
+Veuillez confirmer que les conditions suivantes sont remplies avant de soumettre votre demande d'achat
 
-*    ファイル名はすべて小文字(フォルダ、イメージ、ファイルなど)です。
-*    ファイル名は説明的です
-*    ワークショップのフォルダ構造は、サンプル・ワークショップ(https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)で使用される構造と似ている必要があります
-*    複数のバージョン(デスクトップ/、サンドボックス/、テナンシ/)を使用していますか?それぞれにmanifest.jsonおよびindex.htmlが含まれていることを確認します
-*    マークダウンのイメージ参照に代替テキストが含まれています
+*    Tous les noms de fichiers sont en minuscules (y compris les dossiers, les images, les fichiers, etc.)
+*    Les noms de fichier sont descriptifs
+*    La structure des dossiers de l'atelier doit être identique à celle utilisée dans l'exemple d'atelier (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop).
+*    Utilisez-vous plusieurs versions (bureau/, sandbox/, location/) ? Assurez-vous que chacun d'entre eux contient un élément manifest.json et un élément index.html.
+*    Les références d'image dans la démarque contiennent un autre texte
