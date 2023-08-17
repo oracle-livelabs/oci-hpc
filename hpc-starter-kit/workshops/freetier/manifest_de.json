@@ -1,0 +1,41 @@
+{
+    "workshoptitle": "High Performance Compute - Siemens STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Die Einführung ist immer zweit. Titel des Menüs \"Titel\" und \"Inhalt\" stimmen für die Einführung überein.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Übung 1: SSH-Schlüssel generieren",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_de.md"
+        },
+        {
+            "title": "Übung 2: HPC-Cluster aus Oracle Marketplace Image bereitstellen",
+            "description": "Labs, die der Einführung folgen, sind nummeriert, beginnend mit Übung 1",
+            "filename": "../../provision/provision_de.md"
+        },
+        {
+            "title": "Übung 3: OCI-CLI-Befehle und Terraform für die Arbeit mit HPC verwenden",
+            "filename": "../../cli-terraform/cli-terraform_de.md"
+        },
+        {
+            "title": "Übung 1 zu Lektion 4: OpenFoam-Projekte in HPC-Cluster ausführen",
+            "filename": "../../openfoam-hpc/openfoam-hpc_de.md"
+        },
+        {
+            "title": "Übung 2 zu Lektion 4: OpenFoam-Projekt in Standard-VM auf OCI ausführen",
+            "filename": "../../openfoam-vm/openfoam-vm_de.md"
+        },
+        {
+            "title": "Weitere Informationen",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
