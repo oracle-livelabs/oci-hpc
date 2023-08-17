@@ -1,0 +1,1 @@
+Adicione todas as imagens usadas neste tutorial a esta pasta.
