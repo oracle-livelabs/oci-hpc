@@ -1,0 +1,41 @@
+{
+  "workshoptitle": "El título del taller se define en el manifiesto",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "La introducción siempre es la segunda para LiveLabs. El título y el título del menú de contenido coinciden con la introducción.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Práctica 1: Configuración del Entorno",
+      "description": "Verificar configuración de instancia informática",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_es.md"
+    },
+    {
+      "title": "Práctica 2: Inicialización del entorno",
+      "description": "Inicializar entorno",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Práctica 3: Carga de datos en una instancia",
+      "description": "Carga de los datos",
+      "filename": "../../data-load/data-load_es.md"
+    },
+    {
+      "title": "Práctica 4: Datos de Consulta",
+      "description": "Queyring de los datos",
+      "filename": "../../query/query_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas e instrucciones comunes para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    },
+    {
+      "title": "Otro LiveLabs que puede desear",
+      "description": "Otro LiveLabs que puede desear",
+      "filename": "../../other-livelabs/other-livelabs_es.md"
+    }
+  ]
+}
