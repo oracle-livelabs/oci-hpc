@@ -1,0 +1,48 @@
+{
+    "workshoptitle": "High Performance Compute - 北米",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "概要",
+            "description": "Oracle HPCの概要",
+            "filename": "../../hpc-introduction/hpc-introduction_ja.md"
+        },
+        {
+            "title": "開始",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "NAMDの概要",
+            "description": "NAMDソフトウェアの概要 ",
+            "filename": "../../namd-intro/namd-intro_ja.md"
+        },
+        {
+            "title": "演習1: ログイン",
+            "description": "コンピュート・インスタンスへのログイン方法の詳細",
+            "filename": "../../login/login_ja.md"
+        },
+        {
+            "title": "演習2: デプロイメント",
+            "description": "OCIにアーキテクチャをデプロイするステップ",
+            "filename": "../../deployment/deployment_ja.md"
+        },
+        {
+            "title": "演習3: アプリケーションの実行",
+            "filename": "../../run/run_ja.md"
+        },
+        {
+            "title": "演習4: 後処理",
+            "description": "モデルを分析するステップ",
+            "filename": "../../post-processing/post-processing_ja.md"
+        },
+        {
+            "title": "ライセンス",
+            "filename": "../../licensing/licensing_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
