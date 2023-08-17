@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "WRF를 사용하여 날씨 예측 시작하기",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "소개",
+            "description": "WRF, 우선 순위 및 이 실습의 목표에 대한 발췌 내용",
+            "filename": "../../introduction/introduction_ko.md"
+        },
+        {
+            "title": "시작",
+            "description": "무료 평가판 얻기",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+        },
+        {
+            "title": "실습 1: SSH 키 생성",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_ko.md"
+        },
+        {
+            "title": "실습 2: 네트워크 및 컴퓨팅 인스턴스 설정",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_ko.md"
+        },
+        {
+            "title": "실습 3: WRF/WPS 설치, 설치 및 실행",
+            "description": "OCI에서 WRF 설정, 구성 및 실행에 대한 간단한 가이드",
+            "filename": "../../wrf-wps-setup-install-run/wrf-wps-setup-install-run_ko.md"
+        },
+        {
+            "title": "실습 4: WRF로 실험 데이터 변경",
+            "description": "WRF 시뮬레이션을 실행할 새 위치 및 시간을 선택하도록 이전 실습에서 가이드 수정",
+            "filename": "../../wrf-change-experiments/wrf-change-experiments_ko.md"
+        },
+        {
+            "title": "실습 5: HPC 클러스터에서 WRF/WPS 설치, 설정 및 실행",
+            "description": "OCI의 두 노드 HPC 클러스터에서 WRF 설정, 구성 및 실행에 대한 가이드",
+            "filename": "../../wrf-wps-setup-install-run-cluster/wrf-wps-setup-install-run-cluster_ko.md"
+        },
+        {
+            "title": "도움이 필요하십니까?",
+            "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+        }
+    ]
+}
