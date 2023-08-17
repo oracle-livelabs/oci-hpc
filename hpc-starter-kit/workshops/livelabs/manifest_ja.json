@@ -1,0 +1,42 @@
+{
+  "workshoptitle": "High Performance Compute - Siemens STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "開始",
+            "description": "LiveLabsの前提条件(Oracle所有のテナンシ)。ラボのタイトルとコンテンツ・メニューのタイトル(前述のタイトル)は、前提条件ラボと一致します。この演習は常に最初です。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_ja.md"
+        },
+        {
+            "title": "概要",
+            "description": "紹介は常に2番目です。「概要」のタイトルとコンテンツ・メニューのタイトルが一致します。",
+            "filename": "../../introduction/introduction_ja.md"
+        },
+        {
+            "title": "演習1: SSHキーの生成",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_ja.md"
+        },
+        {
+            "title": "演習2: Oracle MarketplaceイメージからのHPCクラスタのプロビジョニング",
+            "description": "導入後の演習には、演習1から始まる番号が付けられています。",
+            "filename": "../../provision/provision_ja.md"
+        },
+        {
+            "title": "演習3: OCI CLIコマンドおよびTerraformを使用したHPCの操作",
+            "filename": "../../cli-terraform/cli-terraform_ja.md"
+        },
+        {
+            "title": "演習4-1: HPCクラスタでのOpenFoamプロジェクトの実行",
+            "filename": "../../openfoam-hpc/openfoam-hpc_ja.md"
+        },
+        {
+            "title": "演習4-2: OCI上のStandard VMでOpenFoamプロジェクトを実行します",
+            "filename": "../../openfoam-vm/openfoam-vm_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_ja.md"
+        }
+    ]
+}
