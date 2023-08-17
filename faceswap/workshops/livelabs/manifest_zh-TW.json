@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "OCI 上的 Faceswap",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+      {
+            "title": "入門",
+            "description": "這個實驗室概要說明在 OCI 上註冊免費層帳戶的步驟。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+        },
+        {
+            "title": "工作坊簡介",
+            "description": "介紹工作坊、深假主題及面向應用。",
+            "filename": "../../Introduction-to-the-workshop/Introduction-to-the-workshop_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：建立 SSH 金鑰",
+            "description": "本實驗室會逐步引導您完成必要和選擇性步驟，以建立連線至運算執行處理所需的 SSH 金鑰。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：佈建 GPU 執行處理",
+            "description": "這會逐步引導您完成在 OCI 上啟動 GPU 執行處理的必要和選擇性步驟。",
+            "filename": "../../Lab2/Lab2-Provision-a-GPU-instance_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：透過 VNC 設定與存取",
+            "description": "這個實驗室將逐步介紹透過 VNC 用戶端設定與存取 Ubuntu 實例的必要步驟 (此處：TigerVNC)。",
+            "filename": "../../Lab3/Set-up-and-access-through-VNC_zh-TW.md"
+        },
+        {
+            "title": "Lab 4：安裝 Faceswap",
+            "description": "這個實驗室將逐步介紹在運算執行處理上安裝 Faceswap 的必要和選擇性步驟。",
+            "filename": "../../Lab4/Install-Faceswap_zh-TW.md"
+        },
+        {
+            "title": "Lab 5：執行 Faceswap",
+            "description": "這個實驗室將逐步介紹在運算執行處理上執行 Faceswap 的必要和選擇性步驟 (終端機和 GUI)。",
+            "filename": "../../Lab5/Run-Faceswap_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+    ]
+}
