@@ -1,0 +1,33 @@
+{
+  "workshoptitle": "Executando Projetos OpenFOAM no Cluster HPC e VM Padrão no OCI",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introdução",
+            "description": "Pré-requisitos para LiveLabs (tenancies de propriedade da Oracle). O título do laboratório e o título do Menu de Conteúdo (o título acima) correspondem ao laboratório de Pré-requisito. Este laboratório é sempre o primeiro.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "description": "A Introdução é sempre a segunda. O título e o título do menu de conteúdo correspondem à Introdução.",
+            "filename": "../../introduction/introduction_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Gerar chaves SSH",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Executar Projetos OpenFoam no Cluster HPC",
+            "filename": "../../openfoam-hpc/openfoam-hpc_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Execute Projetos OpenFoam na VM Padrão no OCI",
+            "filename": "../../openfoam-vm/openfoam-vm_pt-BR.md"
+        },
+        {
+            "title": "Precisa de Ajuda?",
+            "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+        }
+    ]
+}
