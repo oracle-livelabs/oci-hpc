@@ -1,0 +1,61 @@
+{
+    "workshoptitle": "High Performance Compute - Siemens Simcenter STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Einführung",
+            "description": "Kurzeinführung in Oracle HPC",
+            "filename": "../../intro/intro_de.md"
+        },
+        {
+            "title": "Erste Schritte",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Siemens STAR-CCM Einführung",
+            "description": "Einführung in die Software",
+            "filename": "../../starCCM-intro/starCCM-intro_de.md"
+        },
+        {
+            "title": "Übung 1: SSH-Schlüssel generieren - Cloud Shell",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-cloud-shell/generate-ssh-keys-cloud-shell_de.md"
+        },
+        {
+            "title": "Übung 2: HPC-Clusternetzwerk starten",
+            "description": "Schritte zum Starten des HPC-Clusternetzwerks",
+            "filename": "../../launch-cluster/launch-cluster_de.md"
+        },
+        {
+            "title": "Übung 3: Auf das Cluster zugreifen",
+            "description": "Schritte für den Zugriff auf das Cluster",
+            "filename": "../../access-cluster/access-cluster_de.md"
+        },
+        {
+            "title": "Übung 4: Visualisierung konfigurieren",
+            "description": "Visualisierungstools einrichten und konfigurieren",
+            "filename": "../../config-visualization/config-visualization_de.md"
+        },
+        {
+            "title": "Übung 5: Auf VNC zugreifen",
+            "description": "Schritte für den Zugriff auf VNC",
+            "filename": "../../access-VNC/access-VNC_de.md"
+        },
+        {
+            "title": "Übung 6: STAR-CCM installieren",
+            "filename": "../../install/install_de.md"
+        },
+        {
+            "title": "Übung 7: STAR-CCM ausführen",
+            "filename": "../../run/run_de.md"
+        },
+        {
+            "title": "Benchmark-Beispiel",
+            "filename": "../../benchmark/benchmark_de.md"
+        },
+        {
+            "title": "Weitere Informationen",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+        }
+    ]
+}
