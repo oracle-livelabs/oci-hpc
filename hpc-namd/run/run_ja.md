@@ -22,7 +22,7 @@
     
     ここで: - +p - CPUコアの数- +setcpuaffinity - オペレーティング・システムによって番号付けされた順序でラウンドロビン方式のスレッド/プロセスを、使用可能なコアに割り当てます- +devices - GPUデバイスの数- +idlepoll - アイドル中にスリープせずにGPUをポーリング- +commap - CPUとGPUの通信マッピング- output.txt - 分析を含む出力ファイル
     
-    BM.GPU2.2の例:
+    BM.GPU2.2 の例:
     
         <copy>
         
@@ -31,7 +31,7 @@
         </copy>
         
     
-    BM.GPU3.8の例:
+    BM.GPU3.8 の例:
     
         <copy>
         
