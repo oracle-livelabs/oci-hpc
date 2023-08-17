@@ -1,0 +1,39 @@
+{
+  "workshoptitle": "Erste Schritte mit Computer Vision mit PyTorch",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Erste Schritte",
+            "description": "Gratis testen",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Einführung",
+            "description": "Schritte zum Einrichten der python-Umgebung und Installieren von pytorch",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Übung 1: SSH-Schlüssel erstellen",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_de.md"
+        },
+        {
+            "title": "Übung 2: Netzwerk- und Compute-Instanz einrichten",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_de.md"
+        },
+        {
+            "title": "Übung 3: Classifier trainieren",
+            "description": "Beispielcode und Erläuterung für jede Phase der Bildklassifizierung mit PyTorch",
+            "filename": "../../training-classifier/training-classifier_de.md"
+        },
+        {
+            "title": "Übung 4: GPU verwenden",
+            "description": "Code aus der vorherigen Übung zur Verwendung einer GPU ändern",
+            "filename": "../../utilizing-gpu/utilizing-gpu_de.md"
+        },
+        {
+            "title": "Weitere Informationen",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
