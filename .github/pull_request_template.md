@@ -1,19 +1,19 @@
-# 在此处添加您的 WMS ID
+# 在此處新增您的 WMS ID
 
-# 一般要求
+# 一般需求
 
-1.  讲习班中的资料足够和更新
-2.  代码正确且正常工作
-3.  链接正确
-4.  确保在 manifest.json 中输入帮助电子邮件链接
-5.  请确保在批准 PR 后根据需要更新 WMS URL
+1.  工作坊資訊充足及更新
+2.  代碼正確且有效
+3.  連結正確
+4.  請確定您在 manifest.json 中輸入說明電子郵件連結
+5.  請確定在 PR 核准後視需要更新 WMS URL
 
-# 核对清单 - 有关完整列表，请参阅 QA 文档
+# 檢查清單 - 請參閱 QA 文件以取得完整清單
 
-请在提交您的 PR 之前确认以下项已完成
+請先確認下列項目已完成後再提交您的 PR
 
-*    所有文件名都是小写（包括文件夹、图像、文件等）
-*    文件名是说明性的
-*    工作室文件夹结构应与示例研讨会中使用的结构类似 (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
-*    您在使用多个版本（桌面/、沙盒/、租户/）吗？请确保其中每个都包含 manifest.json 和 index.html
-*    标记中的图像引用包含替代文本
+*    所有的檔案名稱皆為小寫 (包括資料夾、影像、檔案等)
+*    檔案名稱是描述性的
+*    您的研習資料夾結構應與範例研習中使用的結構類似 (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
+*    您是否使用多個版本 (桌面 /、封閉測試環境 /、租用戶 /)？確定每個項目都包含 manifest.json 和 index.html
+*    Markdown 中的影像參考包含替代文字
