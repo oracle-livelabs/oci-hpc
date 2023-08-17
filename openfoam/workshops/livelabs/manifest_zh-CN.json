@@ -1,0 +1,33 @@
+{
+  "workshoptitle": "在 OCI 上的 HPC 集群和标准 VM 上运行 OpenFOAM 项目",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "入门",
+            "description": "LiveLabs（Oracle 拥有的租户）的先决条件。实验室的标题与先决条件实验室的“内容菜单”标题（上面的标题）匹配。这个实验室总是第一位的。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_zh-CN.md"
+        },
+        {
+            "title": "简介",
+            "description": "简介总是第二。“简介”的标题和内容菜单标题匹配。",
+            "filename": "../../introduction/introduction_zh-CN.md"
+        },
+        {
+            "title": "实验室 1：生成 SSH 密钥",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_zh-CN.md"
+        },
+        {
+            "title": "实验 2：在 HPC 集群上运行 OpenFoam 项目",
+            "filename": "../../openfoam-hpc/openfoam-hpc_zh-CN.md"
+        },
+        {
+            "title": "实验室 3：在 OCI 上的标准 VM 上运行 OpenFoam 项目",
+            "filename": "../../openfoam-vm/openfoam-vm_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "用于接收实时帮助的常见问题和方向的解决方案",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-CN.md"
+        }
+    ]
+}
