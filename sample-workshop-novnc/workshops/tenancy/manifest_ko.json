@@ -1,0 +1,61 @@
+{
+  "workshoptitle": "워크샵 제목은 매니페스트 파일에 정의되어 있습니다.",
+  "include": {
+    "starter-file.sql": "../../data-load/files/starter-file.sql",
+    "sample.json": "../../data-load/files/sample.json",
+    "step2_ko.md": "../../data-load/files/step2_ko.md"
+  },
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "소개",
+      "description": "소개는 항상 우선이다. 소개에 대한 제목 및 내용 메뉴 제목이 일치합니다.",
+      "filename": "../../introduction/introduction_ko.md"
+    },
+    {
+      "title": "시작",
+      "description": "무료 체험판 및 유료 테넌시와 상시 무료 계정(해당되는 경우)을 사용하는 고객의 필요 조건입니다. 연습 제목과 목차 메뉴 제목(위 제목)이 선수 과정 연습과 일치합니다. 이 랩은 항상 최우선입니다.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+    },
+    {
+      "title": "실습 1: 설정 준비",
+      "description": "ORM 스택을 다운로드하고 기존 VCN에 대한 보안 규칙을 업데이트하는 방법",
+      "filename": "../../prepare-setup/prepare-setup_ko.md"
+    },
+    {
+      "title": "실습 2: 환경 설정",
+      "description": "워크샵 환경을 프로비저닝하고 연결하는 방법",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_ko.md"
+    },
+    {
+      "title": "실습 3: 환경 초기화",
+      "description": "환경 초기화",
+      "filename": "../../initialize-environment/initialize-environment_ko.md"
+    },
+    {
+      "title": "실습 4: 인스턴스 프로비전",
+      "description": "Lab 환경 프로비저닝",
+      "filename": "../../provision/provision_ko.md"
+    },
+    {
+      "title": "실습 5: 인스턴스로 데이터 로드",
+      "description": "데이터 로드",
+      "filename": "../../data-load/data-load_ko.md"
+    },
+    {
+      "title": "실습 6: 데이터 질의",
+      "description": "데이터 큐링",
+      "filename": "../../query/query_ko.md"
+    },
+    {
+      "title": "도움이 필요하십니까?",
+      "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+    },
+    {
+      "title": "기타 LiveLabs",
+      "description": "기타 LiveLabs",
+      "filename": "../../other-livelabs/other-livelabs_ko.md"
+    }
+  ]
+}
