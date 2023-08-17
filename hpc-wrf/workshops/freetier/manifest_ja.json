@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "WRFを使用した気象予測の開始",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "概要",
+            "description": "WRF、前提条件、およびこの演習の目的に関する小規模な抜粋。",
+            "filename": "../../introduction/introduction_ja.md"
+        },
+        {
+            "title": "開始",
+            "description": "無料トライアルを入手",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "演習1: SSHキーの作成",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_ja.md"
+        },
+        {
+            "title": "演習2: ネットワークおよびコンピュート・インスタンスの設定",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_ja.md"
+        },
+        {
+            "title": "演習3: WRF/WPSの設定とインストール、実行",
+            "description": "OCIでのWRFの設定、構成および実行に関する簡単なガイド",
+            "filename": "../../wrf-wps-setup-install-run/wrf-wps-setup-install-run_ja.md"
+        },
+        {
+            "title": "演習4: WRFを使用した実験データの変更",
+            "description": "前の演習のガイドを変更して、新しい場所と時刻を選択し、WRFシミュレーションを実行",
+            "filename": "../../wrf-change-experiments/wrf-change-experiments_ja.md"
+        },
+        {
+            "title": "演習5: WRF/WPSインストール、HPCクラスタでの設定および実行",
+            "description": "OCI上の2つのノードHPCクラスタでのWRFの設定、構成および実行に関するガイド",
+            "filename": "../../wrf-wps-setup-install-run-cluster/wrf-wps-setup-install-run-cluster_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
