@@ -1,0 +1,43 @@
+{
+    "workshoptitle": "High Performance Compute - GROMACS",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "概要",
+            "description": "Oracle HPCの概要",
+            "filename": "../../hpc-introduction/hpc-introduction_ja.md"
+        },
+        {
+            "title": "開始",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+        },
+        {
+            "title": "演習1: Gromacsインストーラをオブジェクト・ストレージに追加",
+            "description": "Gromacsインストーラをオブジェクト・ストレージに追加",
+            "filename": "../../obj-storage/obj-storage_ja.md"
+        },
+        {
+            "title": "演習2: リソース・マネージャ",
+            "description": "リソース・マネージャ",
+            "filename": "../../rsc-manager/rsc-manager_ja.md"
+        },
+        {
+            "title": "演習3: 変数の選択",
+            "description": "変数を選択",
+            "filename": "../../select-variables/select-variables_ja.md"
+        },
+        {
+            "title": "演習4: スタックの実行",
+            "filename": "../../run-stack/run-stack_ja.md"
+        },
+        {
+            "title": "演習5: GPUノードへのアクセス",
+            "filename": "../../access-gpu/access-gpu_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
