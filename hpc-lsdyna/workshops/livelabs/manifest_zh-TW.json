@@ -1,0 +1,54 @@
+{
+    "workshoptitle": "高效能運算 - LS-Dyna Runbook",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "入門",
+            "description": "LiveLabs (Oracle 擁有的租用戶) 的先決條件。先決條件實驗室的實驗室標題與「內容功能表」標題 (上述標題) 相符。這個實驗室永遠是第一個。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_zh-TW.md"
+        },
+        {
+            "title": "簡介",
+            "description": "Oracle HPC 簡介",
+            "filename": "../../intro/intro_zh-TW.md"
+        },
+        {
+            "title": "LS-DYNA 簡介",
+            "description": "軟體簡介",
+            "filename": "../../ls-dyna/ls-dyna-intro_zh-TW.md"
+        },
+        {
+            "title": "Lab 1：啟動 HPC 叢集網路",
+            "description": "啟動 HPC 叢集網路的步驟",
+            "filename": "../../launch-cluster/launch-cluster_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：存取您的叢集",
+            "description": "存取叢集的步驟",
+            "filename": "../../access-cluster/access-cluster_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：設定視覺化",
+            "description": "設定及設定視覺化工具",
+            "filename": "../../config-visualization/config-visualization_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：存取您的 VNC",
+            "description": "存取 VNC 的步驟",
+            "filename": "../../access-VNC/access-VNC_zh-TW.md"
+        },
+        {
+            "title": "Lab 5：安裝 LS-DYNA",
+            "filename": "../../install/install_zh-TW.md"
+        },
+        {
+            "title": "實驗室 6：執行 LS-DYNA",
+            "filename": "../../run/run_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+    ]
+}
