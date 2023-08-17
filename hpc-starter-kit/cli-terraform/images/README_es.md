@@ -1,0 +1,1 @@
+Agregue todas las imágenes utilizadas en este tutorial a esta carpeta.
