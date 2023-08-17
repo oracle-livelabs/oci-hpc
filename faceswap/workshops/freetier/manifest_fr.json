@@ -1,0 +1,48 @@
+{
+  "workshoptitle": "Faceswap sur OCI",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Présentation de l'atelier",
+            "description": "C'est une introduction à l'atelier, le sujet de deepfake et l'application facewap.",
+            "filename": "../../Introduction-to-the-workshop/Introduction-to-the-workshop_fr.md"
+        },
+        {
+              "title": "Introduction",
+              "description": "Ce laboratoire présente les étapes à suivre pour enregistrer un compte de niveau gratuit sur OCI.",
+              "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+            }
+          ,
+        {
+              "title": "Exercice 1 : Créer des clés SSH",
+              "description": "Cet atelier vous explique comment créer des clés SSH dont vous aurez besoin pour vous connecter à votre instance de calcul.",
+              "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_fr.md"
+            }
+        ,
+        {
+            "title": "Exercice 2 : Provisionner une instance de GPU",
+            "description": "Cet atelier présente les étapes obligatoires et facultatives permettant de lancer une instance de GPU sur OCI.",
+            "filename": "../../Lab2/Lab2-Provision-a-GPU-instance_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Configuration et accès via VNC",
+            "description": "Cet atelier présente les étapes requises pour configurer votre instance Ubuntu et y accéder via un client VNC (ici : TigerVNC).",
+            "filename": "../../Lab3/Set-up-and-access-through-VNC_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Installation de Faceswap",
+            "description": "Cet atelier présente les étapes facultatives et requises pour installer Faceswap sur votre instance de calcul.",
+            "filename": "../../Lab4/Install-Faceswap_fr.md"
+        },
+        {
+            "title": "Exercice 5 : Exécuter Faceswap",
+            "description": "Cet atelier présente les étapes facultatives et requises pour exécuter Faceswap sur votre instance de calcul (terminal et interface graphique).",
+            "filename": "../../Lab5/Run-Faceswap_fr.md"
+        },
+        {
+            "title": "Vous avez besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+    ]
+}
