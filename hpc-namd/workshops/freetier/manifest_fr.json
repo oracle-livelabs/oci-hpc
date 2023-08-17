@@ -1,0 +1,48 @@
+{
+    "workshoptitle": "Calcul hautes performances - NAMD",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Présentation",
+            "description": "Présentation rapide d'Oracle HPC",
+            "filename": "../../hpc-introduction/hpc-introduction_fr.md"
+        },
+        {
+            "title": "Introduction",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+        },
+        {
+            "title": "Introduction à NAMD",
+            "description": "Présentation brève du logiciel NAMD ",
+            "filename": "../../namd-intro/namd-intro_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Connexion",
+            "description": "Détails sur la connexion à l'instance de calcul",
+            "filename": "../../login/login_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Déploiement",
+            "description": "Procédure de déploiement de l'architecture sur OCI",
+            "filename": "../../deployment/deployment_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Exécuter l'application",
+            "filename": "../../run/run_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Post-traitement",
+            "description": "Etapes d'analyse de votre modèle",
+            "filename": "../../post-processing/post-processing_fr.md"
+        },
+        {
+            "title": "Licence",
+            "filename": "../../licensing/licensing_fr.md"
+        },
+        {
+            "title": "Vous avez besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+        }
+    ]
+}
