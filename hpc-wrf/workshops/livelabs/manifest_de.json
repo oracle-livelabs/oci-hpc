@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "Erste Schritte mit der Wettervorhersage mit WRF",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Erste Schritte",
+            "description": "Gratis testen",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+        },
+        {
+            "title": "Einführung",
+            "description": "Kleiner Auszug auf WRF, Präqusiten und Ziele für dieses Labor.",
+            "filename": "../../introduction/introduction_de.md"
+        },
+        {
+            "title": "Übung 1: SSH-Schlüssel erstellen",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_de.md"
+        },
+        {
+            "title": "Übung 2: Netzwerk- und Compute-Instanz einrichten",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_de.md"
+        },
+        {
+            "title": "Übung 3: WRF/WPS-Installation, -Setup und -Ausführung",
+            "description": "Einfache Anleitung zum Einrichten, Konfigurieren und Ausführen von WRF auf OCI",
+            "filename": "../../wrf-wps-setup-install-run/wrf-wps-setup-install-run_de.md"
+        },
+        {
+            "title": "Übung 4: Experimentdaten mit WRF ändern",
+            "description": "Anleitung aus der vorherigen Übung ändern, um neue Standorte und Zeiten für die Ausführung von WRF-Simulationen auszuwählen",
+            "filename": "../../wrf-change-experiments/wrf-change-experiments_de.md"
+        },
+        {
+            "title": "Übung 5: WRF/WPS-Installation, -Setup und -Ausführung auf HPC-Cluster",
+            "description": "Anleitung zum Einrichten, Konfigurieren und Ausführen von WRF auf einem HPC-Cluster mit zwei Knoten auf OCI",
+            "filename": "../../wrf-wps-setup-install-run-cluster/wrf-wps-setup-install-run-cluster_de.md"
+        },
+        {
+            "title": "Weitere Informationen",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
