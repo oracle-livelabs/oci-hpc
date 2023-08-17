@@ -1,0 +1,49 @@
+{
+  "workshoptitle": "High Performance Compute - NAMD",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Erste Schritte",
+            "description": "Voraussetzungen für LiveLabs (Oracle-Mandanten). Der Titel der Übung und der Titel des Menüs \"Inhalt\" (der Titel oben) stimmen für die erforderliche Übung überein. Diese Übung ist immer die erste.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_de.md"
+        },
+        {
+            "title": "Einführung",
+            "description": "Kurzeinführung in Oracle HPC",
+            "filename": "../../hpc-introduction/hpc-introduction_de.md"
+        },
+        {
+            "title": "NAMD - Einführung",
+            "description": "Kurze Einführung in NAMD Software ",
+            "filename": "../../namd-intro/namd-intro_de.md"
+        },
+        {
+            "title": "Übung 1: Anmelden",
+            "description": "Details zur Anmeldung bei der Compute-Instanz",
+            "filename": "../../login/login_de.md"
+        },
+        {
+            "title": "Übung 2: Deployment",
+            "description": "Schritte zum Bereitstellen der Architektur auf OCI",
+            "filename": "../../deployment/deployment_de.md"
+        },
+        {
+            "title": "Übung 3: Anwendung ausführen",
+            "filename": "../../run/run_de.md"
+        },
+        {
+            "title": "Übung 4: Nachverarbeitung",
+            "description": "Schritte zum Analysieren Ihres Modells",
+            "filename": "../../post-processing/post-processing_de.md"
+        },
+        {
+            "title": "Lizenzierung",
+            "filename": "../../licensing/licensing_de.md"
+        },
+        {
+            "title": "Weitere Informationen",
+            "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_de.md"
+        }
+    ]
+}
