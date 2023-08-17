@@ -1,0 +1,49 @@
+{
+  "workshoptitle": "高效能運算 - NAMD",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "入門",
+            "description": "LiveLabs (Oracle 擁有的租用戶) 的先決條件。先決條件實驗室的實驗室標題與「內容功能表」標題 (上述標題) 相符。這個實驗室永遠是第一個。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_zh-TW.md"
+        },
+        {
+            "title": "簡介",
+            "description": "Oracle HPC 簡介",
+            "filename": "../../hpc-introduction/hpc-introduction_zh-TW.md"
+        },
+        {
+            "title": "NAMD 簡介",
+            "description": "NAMD 軟體簡介 ",
+            "filename": "../../namd-intro/namd-intro_zh-TW.md"
+        },
+        {
+            "title": "實驗室 1：登入",
+            "description": "如何登入運算執行處理的詳細資訊",
+            "filename": "../../login/login_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：部署",
+            "description": "在 OCI 上部署架構的步驟",
+            "filename": "../../deployment/deployment_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：執行應用程式",
+            "filename": "../../run/run_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：後處理",
+            "description": "分析模型的步驟",
+            "filename": "../../post-processing/post-processing_zh-TW.md"
+        },
+        {
+            "title": "授權",
+            "filename": "../../licensing/licensing_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+    ]
+}
