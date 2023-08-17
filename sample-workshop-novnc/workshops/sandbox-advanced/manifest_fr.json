@@ -1,0 +1,41 @@
+{
+  "workshoptitle": "Le titre de l'atelier est défini dans le manifeste",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Présentation",
+      "description": "L'introduction est toujours la seconde pour LiveLabs. Le titre et le titre du menu Contenu correspondent à l'introduction.",
+      "filename": "../../introduction/introduction_fr.md"
+    },
+    {
+      "title": "Exercice 1 : Configuration de l'environnement",
+      "description": "Vérifier la configuration de l'instance de calcul",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_fr.md"
+    },
+    {
+      "title": "Exercice 2 : Initialiser l'environnement",
+      "description": "Initialiser l'environnement",
+      "filename": "../../initialize-environment/initialize-environment_fr.md"
+    },
+    {
+      "title": "Exercice 3 : Charger des données dans une instance",
+      "description": "Chargement des données",
+      "filename": "../../data-load/data-load_fr.md"
+    },
+    {
+      "title": "Exercice 4 : Interroger les données",
+      "description": "Mettre les données en attente",
+      "filename": "../../query/query_fr.md"
+    },
+    {
+      "title": "Vous avez besoin d'aide ?",
+      "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+    },
+    {
+      "title": "Autre LiveLabs que vous aimerez peut-être",
+      "description": "Autre LiveLabs que vous aimerez peut-être",
+      "filename": "../../other-livelabs/other-livelabs_fr.md"
+    }
+  ]
+}
