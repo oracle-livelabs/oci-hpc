@@ -1,0 +1,39 @@
+{
+  "workshoptitle": "Conceitos Básicos do Computer Vision usando PyTorch",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introdução",
+            "description": "Etapas para configurar o ambiente python e instalar o pytorch",
+            "filename": "../../introduction/introduction_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "description": "Obtenha uma Avaliação Grátis",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Criar Chaves SSH",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-local/generate-ssh-keys-local_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Configurar Instância de Rede e Computação",
+            "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute/setup-linux-freetier_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Treinando um Classificador",
+            "description": "Código de amostra e explicação para cada estágio da classificação de imagem usando PyTorch",
+            "filename": "../../training-classifier/training-classifier_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Utilização de uma GPU",
+            "description": "Modificando o código do laboratório anterior para utilizar uma GPU",
+            "filename": "../../utilizing-gpu/utilizing-gpu_pt-BR.md"
+        },
+        {
+            "title": "Precisa de Ajuda?",
+            "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_pt-BR.md"
+        }
+    ]
+}
