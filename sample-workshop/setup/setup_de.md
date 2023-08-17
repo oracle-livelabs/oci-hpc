@@ -26,7 +26,7 @@ _Listen Sie die Voraussetzungen für diese Übung mit dem folgenden Format auf. 
 
 In dieser Übung wird davon ausgegangen, dass Sie:
 
-*   Einen Oracle Cloud-Account
+*   Oracle Cloud-Account
 *   Alle vorherigen Übungen wurden erfolgreich abgeschlossen
 
 _"Falsch" - Untergeordnete Elemente sind standardmäßig ausgeblendet_
