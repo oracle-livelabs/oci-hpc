@@ -1,0 +1,61 @@
+{
+  "workshoptitle": "工作坊的標題定義於資訊清單檔案中",
+  "include": {
+    "starter-file.sql": "../../data-load/files/starter-file.sql",
+    "sample.json": "../../data-load/files/sample.json",
+    "step2_zh-TW.md": "../../data-load/files/step2_zh-TW.md"
+  },
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "簡介",
+      "description": "「簡介」永遠優先。「簡介」的標題和內容功能表標題相符。",
+      "filename": "../../introduction/introduction_zh-TW.md"
+    },
+    {
+      "title": "入門",
+      "description": "這是使用免費試用和付費租用戶，以及永遠免費帳戶 (如果適用) 的先決條件。先決條件實驗室的實驗室標題與「內容功能表」標題 (上述標題) 相符。這個實驗室永遠是第一個。",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-TW.md"
+    },
+    {
+      "title": "實驗室 1：準備設定",
+      "description": "如何下載 ORM 堆疊及更新現有 VCN 的安全規則",
+      "filename": "../../prepare-setup/prepare-setup_zh-TW.md"
+    },
+    {
+      "title": "實驗室 2：環境設定",
+      "description": "如何佈建研討會環境並加以連結",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_zh-TW.md"
+    },
+    {
+      "title": "實驗室 3：初始化環境",
+      "description": "起始環境",
+      "filename": "../../initialize-environment/initialize-environment_zh-TW.md"
+    },
+    {
+      "title": "實驗室 4：佈建執行處理",
+      "description": "佈建實驗室環境",
+      "filename": "../../provision/provision_zh-TW.md"
+    },
+    {
+      "title": "實驗室 5：將資料載入執行處理",
+      "description": "載入資料",
+      "filename": "../../data-load/data-load_zh-TW.md"
+    },
+    {
+      "title": "實驗室 6：查詢資料",
+      "description": "將資料放入佇列",
+      "filename": "../../query/query_zh-TW.md"
+    },
+    {
+      "title": "需要協助嗎？",
+      "description": "接收即時說明常見問題的解決方案和指示",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-TW.md"
+    },
+    {
+      "title": "您可能的其他 LiveLabs",
+      "description": "您可能的其他 LiveLabs",
+      "filename": "../../other-livelabs/other-livelabs_zh-TW.md"
+    }
+  ]
+}
