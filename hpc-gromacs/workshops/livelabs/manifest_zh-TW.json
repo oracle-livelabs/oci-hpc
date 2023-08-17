@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "高效能運算 - GROMACS",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "入門",
+            "description": "LiveLabs (Oracle 擁有的租用戶) 的先決條件。先決條件實驗室的實驗室標題與「內容功能表」標題 (上述標題) 相符。這個實驗室永遠是第一個。",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_zh-TW.md"
+        },
+        {
+            "title": "簡介",
+            "description": "Oracle HPC 簡介",
+            "filename": "../../hpc-introduction/hpc-introduction_zh-TW.md"
+        },
+        {
+            "title": "Lab 1：新增 Gromacs 安裝程式至物件儲存體",
+            "description": "將 Gromacs 安裝程式新增至物件儲存",
+            "filename": "../../obj-storage/obj-storage_zh-TW.md"
+        },
+        {
+            "title": "實驗室 2：資源管理程式",
+            "description": "資源管理員",
+            "filename": "../../rsc-manager/rsc-manager_zh-TW.md"
+        },
+        {
+            "title": "實驗室 3：選取變數",
+            "description": "選取變數",
+            "filename": "../../select-variables/select-variables_zh-TW.md"
+        },
+        {
+            "title": "實驗室 4：執行堆疊",
+            "filename": "../../run-stack/run-stack_zh-TW.md"
+        },
+        {
+            "title": "實驗室 5：存取您的 GPU 節點",
+            "filename": "../../access-gpu/access-gpu_zh-TW.md"
+        },
+        {
+            "title": "需要協助嗎？",
+            "description": "接收即時說明常見問題的解決方案和指示",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-TW.md"
+        }
+    ]
+}
