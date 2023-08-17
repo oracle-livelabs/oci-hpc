@@ -1,0 +1,36 @@
+{
+  "workshoptitle": "O Título do Workshop é definido no manifesto",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introdução",
+      "description": "A Introdução é sempre a segunda para LiveLabs. O título e o título do menu de conteúdo correspondem à Introdução.",
+      "filename": "../../introduction/introduction_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 1: Configuração do Ambiente",
+      "description": "Verificar Configuração da instância de computação",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 2: Inicializar Ambiente",
+      "description": "Inicializar Ambiente",
+      "filename": "../../initialize-environment/initialize-environment_pt-BR.md"
+    },
+    {
+      "title": "Laboratório 3: Provisionar uma Instância",
+      "description": "Provisionando o Ambiente de Laboratório",
+      "filename": "../../provision/provision_pt-BR.md"
+    },
+    {
+      "title": "Precisa de Ajuda?",
+      "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+    },
+    {
+      "title": "Outro LiveLabs que você pode gostar",
+      "description": "Outro LiveLabs que você pode gostar",
+      "filename": "../../other-livelabs/other-livelabs_pt-BR.md"
+    }
+  ]
+}
