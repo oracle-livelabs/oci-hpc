@@ -1,0 +1,36 @@
+{
+  "workshoptitle": "研讨会的标题在清单中定义",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "简介",
+      "description": "对于 LiveLabs，“简介”始终是其次。“简介”的标题和内容菜单标题匹配。",
+      "filename": "../../introduction/introduction_zh-CN.md"
+    },
+    {
+      "title": "实验室 1：环境设置",
+      "description": "验证计算实例的设置",
+      "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-ssh-and-novnc_zh-CN.md"
+    },
+    {
+      "title": "实验室 2：初始化环境",
+      "description": "初始化环境",
+      "filename": "../../initialize-environment/initialize-environment_zh-CN.md"
+    },
+    {
+      "title": "实验室 3：预配实例",
+      "description": "预配实验室环境",
+      "filename": "../../provision/provision_zh-CN.md"
+    },
+    {
+      "title": "需要帮助？",
+      "description": "用于接收实时帮助的常见问题和方向的解决方案",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_zh-CN.md"
+    },
+    {
+      "title": "您可能想要的其他 LiveLabs",
+      "description": "您可能想要的其他 LiveLabs",
+      "filename": "../../other-livelabs/other-livelabs_zh-CN.md"
+    }
+  ]
+}
