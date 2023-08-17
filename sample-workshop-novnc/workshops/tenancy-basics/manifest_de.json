@@ -1,0 +1,52 @@
+{
+  "workshoptitle": "Der Titel des Workshops wird in der Manifestdatei definiert",
+  "include": {
+    "starter-file.sql": "../../data-load/files/starter-file.sql",
+    "sample.json": "../../data-load/files/sample.json",
+    "step2_de.md": "../../data-load/files/step2_de.md"
+  },
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Einführung",
+      "description": "Die Einführung ist immer zuerst. Titel des Menüs \"Titel\" und \"Inhalt\" stimmen für die Einführung überein.",
+      "filename": "../../introduction/introduction_de.md"
+    },
+    {
+      "title": "Erste Schritte",
+      "description": "Dies sind die Voraussetzungen für Kunden, die kostenlose Testversion und kostenpflichtige Mandanten sowie Konten vom Typ \"Immer kostenlos\" (sofern zutreffend) verwenden. Der Titel der Übung und der Titel des Menüs \"Inhalt\" (der Titel oben) stimmen für die erforderliche Übung überein. Diese Übung ist immer die erste.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_de.md"
+    },
+    {
+      "title": "Übung 1: Setup vorbereiten",
+      "description": "So laden Sie Ihren ORM-Stack herunter und aktualisieren Sicherheitsregeln für ein vorhandenes VCN",
+      "filename": "../../prepare-setup/prepare-setup_de.md",
+      "type": "basics"
+    },
+    {
+      "title": "Übung 2: Umgebungssetup",
+      "description": "So stellen Sie die Workshop-Umgebung bereit und stellen eine Verbindung damit her",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_de.md"
+    },
+    {
+      "title": "Übung 3: Umgebung initialisieren",
+      "description": "Umgebung initialisieren",
+      "filename": "../../initialize-environment/initialize-environment_de.md"
+    },
+    {
+      "title": "Übung 4: Instanz bereitstellen",
+      "description": "Übungsumgebung bereitstellen",
+      "filename": "../../provision/provision_de.md"
+    },
+    {
+      "title": "Weitere Informationen",
+      "description": "Lösungen für häufige Probleme und Anweisungen für den Empfang von Live-Hilfe",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_de.md"
+    },
+    {
+      "title": "Andere LiveLabs, die Ihnen gefallen könnten",
+      "description": "Andere LiveLabs, die Ihnen gefallen könnten",
+      "filename": "../../other-livelabs/other-livelabs_de.md"
+    }
+  ]
+}
