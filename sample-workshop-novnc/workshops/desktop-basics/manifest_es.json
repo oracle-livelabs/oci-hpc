@@ -1,0 +1,36 @@
+{
+  "workshoptitle": "El título del taller se define en el manifiesto",
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introducción",
+      "description": "La introducción siempre es la segunda para LiveLabs. El título y el título del menú de contenido coinciden con la introducción.",
+      "filename": "../../introduction/introduction_es.md"
+    },
+    {
+      "title": "Introducción a noVNC Remote Desktop",
+      "description": "Uso de noVNC Remote Desktop",
+      "filename": "https://oracle-livelabs.github.io/common/labs/remote-desktop/using-novnc-remote-desktop_es.md"
+    },
+    {
+      "title": "Práctica 1: Inicialización del Entorno",
+      "description": "Inicializar entorno",
+      "filename": "../../initialize-environment/initialize-environment_es.md"
+    },
+    {
+      "title": "Práctica 2: Provisionamiento de una Instancia",
+      "description": "Aprovisionamiento del entorno de prácticas",
+      "filename": "../../provision/provision_es.md"
+    },
+    {
+      "title": "¿Necesita Ayuda?",
+      "description": "Soluciones a problemas e instrucciones comunes para recibir ayuda en directo",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_es.md"
+    },
+    {
+      "title": "Otro LiveLabs que puede desear",
+      "description": "Otro LiveLabs que puede desear",
+      "filename": "../../other-livelabs/other-livelabs_es.md"
+    }
+  ]
+}
