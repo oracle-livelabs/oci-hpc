@@ -1,0 +1,62 @@
+{
+    "workshoptitle": "Computação de Alto Desempenho - Siemens Simcenter STAR-CCM+",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introdução",
+            "description": "Pré-requisitos para LiveLabs (tenancies de propriedade da Oracle). O título do laboratório e o título do Menu de Conteúdo (o título acima) correspondem ao laboratório de Pré-requisito. Este laboratório é sempre o primeiro.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_pt-BR.md"
+        },
+        {
+            "title": "Introdução",
+            "description": "Breve Introdução ao Oracle HPC",
+            "filename": "../../intro/intro_pt-BR.md"
+        },
+        {
+            "title": "Siemens STAR-CCM Introdução",
+            "description": "Introdução ao software",
+            "filename": "../../starCCM-intro/starCCM-intro_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 1: Gerar Chave SSH - Cloud Shell",
+            "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key-cloud-shell/generate-ssh-keys-cloud-shell_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 2: Iniciar Rede de Clusters HPC",
+            "description": "Etapas para iniciar a Rede de Clusters HPC",
+            "filename": "../../launch-cluster/launch-cluster_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 3: Acesse seu Cluster",
+            "description": "Etapas para acessar o cluster",
+            "filename": "../../access-cluster/access-cluster_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 4: Configurar Visualização",
+            "description": "Configurar e configurar Ferramentas de Visualização",
+            "filename": "../../config-visualization/config-visualization_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 5: Acesse sua VNC",
+            "description": "Etapas para acessar a VNC",
+            "filename": "../../access-VNC/access-VNC_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 6: Instalar STAR-CCM",
+            "filename": "../../install/install_pt-BR.md"
+        },
+        {
+            "title": "Laboratório 7: Executar STAR-CCM",
+            "filename": "../../run/run_pt-BR.md"
+        },
+        {
+            "title": "Exemplo de Benchmark",
+            "filename": "../../benchmark/benchmark_pt-BR.md"
+        },
+        {
+            "title": "Precisa de Ajuda?",
+            "description": "Soluções para Problemas Comuns e Direções para Receber Ajuda ao Vivo",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_pt-BR.md"
+        }
+    ]
+}
