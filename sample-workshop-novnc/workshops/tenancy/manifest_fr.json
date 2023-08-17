@@ -1,0 +1,61 @@
+{
+  "workshoptitle": "Le titre de l'atelier est défini dans le fichier manifeste",
+  "include": {
+    "starter-file.sql": "../../data-load/files/starter-file.sql",
+    "sample.json": "../../data-load/files/sample.json",
+    "step2_fr.md": "../../data-load/files/step2_fr.md"
+  },
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Présentation",
+      "description": "L'introduction est toujours la première. Le titre et le titre du menu Contenu correspondent à l'introduction.",
+      "filename": "../../introduction/introduction_fr.md"
+    },
+    {
+      "title": "Introduction",
+      "description": "Il s'agit des prérequis pour les clients qui utilisent des locations d'évaluation gratuite et payantes, ainsi que des comptes Toujours gratuit (le cas échéant). Le titre de l'exercice et le titre du menu Sommaire (titre ci-dessus) correspondent à l'exercice Prérequis. Cet exercice est toujours le premier.",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_fr.md"
+    },
+    {
+      "title": "Exercice 1 : Préparer la configuration",
+      "description": "Comment télécharger votre pile ORM et mettre à jour les règles de sécurité pour un VCN existant",
+      "filename": "../../prepare-setup/prepare-setup_fr.md"
+    },
+    {
+      "title": "Exercice 2 : Configuration de l'environnement",
+      "description": "Provisionner l'environnement de l'atelier et s'y connecter",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_fr.md"
+    },
+    {
+      "title": "Exercice 3 : Initialiser l'environnement",
+      "description": "Initialiser l'environnement",
+      "filename": "../../initialize-environment/initialize-environment_fr.md"
+    },
+    {
+      "title": "Exercice 4 : Provisionner une instance",
+      "description": "Provisionnement de l'environnement des exercices",
+      "filename": "../../provision/provision_fr.md"
+    },
+    {
+      "title": "Exercice 5 : Charger des données dans une instance",
+      "description": "Chargement des données",
+      "filename": "../../data-load/data-load_fr.md"
+    },
+    {
+      "title": "Exercice 6 : Données de requête",
+      "description": "Mettre les données en attente",
+      "filename": "../../query/query_fr.md"
+    },
+    {
+      "title": "Vous avez besoin d'aide ?",
+      "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_fr.md"
+    },
+    {
+      "title": "Autre LiveLabs que vous aimerez peut-être",
+      "description": "Autre LiveLabs que vous aimerez peut-être",
+      "filename": "../../other-livelabs/other-livelabs_fr.md"
+    }
+  ]
+}
