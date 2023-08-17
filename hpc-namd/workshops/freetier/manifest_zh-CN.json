@@ -1,0 +1,48 @@
+{
+    "workshoptitle": "高性能计算 - NAMD",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "简介",
+            "description": "Oracle HPC 简介",
+            "filename": "../../hpc-introduction/hpc-introduction_zh-CN.md"
+        },
+        {
+            "title": "入门",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-CN.md"
+        },
+        {
+            "title": "NAMD 简介",
+            "description": "NAMD 软件简介 ",
+            "filename": "../../namd-intro/namd-intro_zh-CN.md"
+        },
+        {
+            "title": "实验室 1：登录",
+            "description": "有关如何登录计算实例的详细信息",
+            "filename": "../../login/login_zh-CN.md"
+        },
+        {
+            "title": "实验室 2：部署",
+            "description": "在 OCI 上部署体系结构的步骤",
+            "filename": "../../deployment/deployment_zh-CN.md"
+        },
+        {
+            "title": "练习 3：运行应用程序",
+            "filename": "../../run/run_zh-CN.md"
+        },
+        {
+            "title": "实验室 4：后处理",
+            "description": "分析模型的步骤",
+            "filename": "../../post-processing/post-processing_zh-CN.md"
+        },
+        {
+            "title": "许可",
+            "filename": "../../licensing/licensing_zh-CN.md"
+        },
+        {
+            "title": "需要帮助？",
+            "description": "用于接收实时帮助的常见问题和方向的解决方案",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+        }
+    ]
+}
