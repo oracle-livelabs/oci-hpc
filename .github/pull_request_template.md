@@ -1,18 +1,19 @@
-# Add here your WMS ID
+# Agregue aquí su ID de WMS
 
-# General requirements
-1. Information in the workshop is adequate and updated
-2. Code is correct and working
-3. Links are correct
-4. Make sure you enter the help email link in your manifest.json
-5. Please make sure WMS URLs are updated as needed after your PR is approved
+# Requisitos generales
 
+1.  La información en el taller es adecuada y actualizada
+2.  El código es correcto y funciona
+3.  Los enlaces son correctos
+4.  Asegúrese de introducir el enlace de correo electrónico de ayuda en manifest.json
+5.  Asegúrese de que las URL de WMS se actualicen según sea necesario una vez que se apruebe la PR.
 
-# Checklist - Refer to the QA document for the complete list 
-Please confirm that the following is completed before submitting your PR
+# Lista de comprobación: consulte el documento de control de calidad para obtener la lista completa
 
-- [ ] All filenames are lower case (including folders, images, files, etc.)
-- [ ] Filenames are descriptive
-- [ ] Your workshop folder structure should be similar to the one used in the sample workshop (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
-- [ ] Are you using multiple versions (desktop/, sandbox/, tenancy/)? Make sure that each of them contains a manifest.json and an index.html
-- [ ] Image references in markdown contain an alternate text
+Confirme que se ha completado lo siguiente antes de enviar su PR
+
+*    Todos los nombres de archivo tienen minúsculas (incluidas carpetas, imágenes, archivos, etc.)
+*    Los nombres de archivo son descriptivos
+*    La estructura de carpetas del taller debe ser similar a la utilizada en el taller de ejemplo (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
+*    ¿Utiliza varias versiones (escritorio/, sandbox/, arrendamiento/)? Asegúrese de que cada uno de ellos contiene un manifest.json y un index.html
+*    Las referencias de imagen en la rebaja contienen un texto alternativo
