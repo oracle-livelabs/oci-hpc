@@ -1,0 +1,48 @@
+{
+    "workshoptitle": "고성능 컴퓨팅 - NAMD",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "소개",
+            "description": "Oracle HPC에 대한 간략한 소개",
+            "filename": "../../hpc-introduction/hpc-introduction_ko.md"
+        },
+        {
+            "title": "시작",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
+        },
+        {
+            "title": "NAMD 소개",
+            "description": "NAMD 소프트웨어 소개 ",
+            "filename": "../../namd-intro/namd-intro_ko.md"
+        },
+        {
+            "title": "실습 1: 로그인",
+            "description": "컴퓨트 인스턴스에 로그인하는 방법에 대한 세부정보",
+            "filename": "../../login/login_ko.md"
+        },
+        {
+            "title": "실습 2: 배치",
+            "description": "OCI에 아키텍처를 배포하는 단계",
+            "filename": "../../deployment/deployment_ko.md"
+        },
+        {
+            "title": "실습 3: 응용 프로그램 실행",
+            "filename": "../../run/run_ko.md"
+        },
+        {
+            "title": "실습 4: 후행 처리",
+            "description": "모델 분석 단계",
+            "filename": "../../post-processing/post-processing_ko.md"
+        },
+        {
+            "title": "라이센스 지정",
+            "filename": "../../licensing/licensing_ko.md"
+        },
+        {
+            "title": "도움이 필요하십니까?",
+            "description": "라이브 도움말을 받기 위한 일반적인 문제 및 방향에 대한 해답",
+            "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ko.md"
+        }
+    ]
+}
