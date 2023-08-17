@@ -1,0 +1,61 @@
+{
+  "workshoptitle": "研习会标题在清单文件中定义",
+  "include": {
+    "starter-file.sql": "../../data-load/files/starter-file.sql",
+    "sample.json": "../../data-load/files/sample.json",
+    "step2_zh-CN.md": "../../data-load/files/step2_zh-CN.md"
+  },
+  "help": "livelabs-help-**enterarea**_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "简介",
+      "description": "简介总是首先。“简介”的标题和内容菜单标题匹配。",
+      "filename": "../../introduction/introduction_zh-CN.md"
+    },
+    {
+      "title": "入门",
+      "description": "这是使用免费试用和付费租户以及“始终免费”账户（如果适用）的客户先决条件。实验室的标题与先决条件实验室的“内容菜单”标题（上面的标题）匹配。这个实验室总是第一位的。",
+      "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-CN.md"
+    },
+    {
+      "title": "练习 1：准备设置",
+      "description": "如何下载 ORM 堆栈并更新现有 VCN 的安全规则",
+      "filename": "../../prepare-setup/prepare-setup_zh-CN.md"
+    },
+    {
+      "title": "实验室 2：环境设置",
+      "description": "如何预配研习会环境并连接到该环境",
+      "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh_zh-CN.md"
+    },
+    {
+      "title": "练习 3：初始化环境",
+      "description": "初始化环境",
+      "filename": "../../initialize-environment/initialize-environment_zh-CN.md"
+    },
+    {
+      "title": "实验室 4：预配实例",
+      "description": "预配实验室环境",
+      "filename": "../../provision/provision_zh-CN.md"
+    },
+    {
+      "title": "练习 5：将数据加载到实例中",
+      "description": "加载数据",
+      "filename": "../../data-load/data-load_zh-CN.md"
+    },
+    {
+      "title": "实验室 6：查询数据",
+      "description": "排队数据",
+      "filename": "../../query/query_zh-CN.md"
+    },
+    {
+      "title": "需要帮助？",
+      "description": "用于接收实时帮助的常见问题和方向的解决方案",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_zh-CN.md"
+    },
+    {
+      "title": "您可能想要的其他 LiveLabs",
+      "description": "您可能想要的其他 LiveLabs",
+      "filename": "../../other-livelabs/other-livelabs_zh-CN.md"
+    }
+  ]
+}
