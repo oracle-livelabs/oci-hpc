@@ -1,19 +1,19 @@
-# ここにWMS IDを追加
+# Adicione aqui seu ID do WMS
 
-# 一般的な要件
+# Requisitos gerais
 
-1.  ワークショップの情報は適切で更新されています
-2.  コードが正しく動作しています
-3.  リンクが正しい
-4.  ヘルプ電子メール・リンクをmanifest.jsonに入力してください
-5.  PRが承認された後、必要に応じてWMS URLが更新されていることを確認してください
+1.  As informações contidas no workshop são adequadas e atualizadas
+2.  O código está correto e funcionando
+3.  Os links estão corretos
+4.  Certifique-se de digitar o link do e-mail de ajuda em manifest.json
+5.  Certifique-se de que as URLs do WMS sejam atualizadas conforme necessário depois que seu PR for aprovado
 
-# チェックリスト- 全リストについてはQAドキュメントを参照してください
+# Lista de verificação - Consulte o documento de CQ para obter a lista completa
 
-PRを送信する前に、次の事項が完了していることを確認してください
+Confirme se o seguinte está concluído antes de enviar o PR
 
-*    ファイル名はすべて小文字(フォルダ、イメージ、ファイルなど)です。
-*    ファイル名は説明的です
-*    ワークショップのフォルダ構造は、サンプル・ワークショップ(https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)で使用される構造と似ている必要があります
-*    複数のバージョン(デスクトップ/、サンドボックス/、テナンシ/)を使用していますか?それぞれにmanifest.jsonおよびindex.htmlが含まれていることを確認します
-*    マークダウンのイメージ参照に代替テキストが含まれています
+*    Todos os nomes de arquivo são minúsculos (incluindo pastas, imagens, arquivos etc.)
+*    Os nomes de arquivo são descritivos
+*    A estrutura de pastas do workshop deve ser semelhante à usada no workshop de amostra (https://github.com/oracle-livelabs/common/tree/main/sample-livelabs-templates/sample-workshop)
+*    Você está usando várias versões (área de trabalho/, sandbox/, tenancy/)? Certifique-se de que cada um deles contenha um manifest.json e um index.html
+*    As referências de imagem em markdown contêm um texto alternativo
