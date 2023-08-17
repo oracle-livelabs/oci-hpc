@@ -1,0 +1,44 @@
+{
+  "workshoptitle": "Calcul haute performance - GROMACS",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introduction",
+            "description": "Prérequis pour LiveLabs (locations détenues par Oracle). Le titre de l'exercice et le titre du menu Sommaire (titre ci-dessus) correspondent à l'exercice Prérequis. Cet exercice est toujours le premier.",
+            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login-livelabs2_fr.md"
+        },
+        {
+            "title": "Présentation",
+            "description": "Présentation rapide d'Oracle HPC",
+            "filename": "../../hpc-introduction/hpc-introduction_fr.md"
+        },
+        {
+            "title": "Exercice 1 : Ajouter le programme d'installation Gromacs à Object Storage",
+            "description": "Ajout du programme d'installation Gromacs à Object Storage",
+            "filename": "../../obj-storage/obj-storage_fr.md"
+        },
+        {
+            "title": "Exercice 2 : Gestionnaire de ressources",
+            "description": "Gestionnaire de ressources",
+            "filename": "../../rsc-manager/rsc-manager_fr.md"
+        },
+        {
+            "title": "Exercice 3 : Sélectionner des variables",
+            "description": "Sélectionner des variables",
+            "filename": "../../select-variables/select-variables_fr.md"
+        },
+        {
+            "title": "Exercice 4 : Exécuter la pile",
+            "filename": "../../run-stack/run-stack_fr.md"
+        },
+        {
+            "title": "Exercice 5 : Accéder à votre noeud de GPU",
+            "filename": "../../access-gpu/access-gpu_fr.md"
+        },
+        {
+            "title": "Vous avez besoin d'aide ?",
+            "description": "Solutions aux problèmes courants et instructions pour recevoir de l'aide en direct",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs_fr.md"
+        }
+    ]
+}
