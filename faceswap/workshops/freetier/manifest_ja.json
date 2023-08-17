@@ -1,0 +1,48 @@
+{
+  "workshoptitle": "OCI上のFaceswap",
+    "help": "livelabs-help-hpc_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "ワークショップの概要",
+            "description": "これは、ワークショップ、ディープフェイクとFaceswapアプリケーションのトピックの概要です。",
+            "filename": "../../Introduction-to-the-workshop/Introduction-to-the-workshop_ja.md"
+        },
+        {
+              "title": "開始",
+              "description": "このラボでは、OCIにFree Tierアカウントを登録する手順の概要を説明します。",
+              "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
+            }
+          ,
+        {
+              "title": "演習1: SSHキーの作成",
+              "description": "このラボでは、コンピュート・インスタンスに接続するために必要なSSHキーを作成するための必須およびオプションのステップを説明します。",
+              "filename": "https://oracle-livelabs.github.io/common/labs/generate-ssh-key/generate-ssh-keys_ja.md"
+            }
+        ,
+        {
+            "title": "演習2: GPUインスタンスのプロビジョニング",
+            "description": "このラボでは、OCIでGPUインスタンスを起動するための必須およびオプションのステップについて説明します。",
+            "filename": "../../Lab2/Lab2-Provision-a-GPU-instance_ja.md"
+        },
+        {
+            "title": "演習3: VNCを使用した設定およびアクセス",
+            "description": "このラボでは、VNCクライアント(TigerVNC)を介してUbuntuインスタンスを設定およびアクセスするために必要なステップについて説明します。",
+            "filename": "../../Lab3/Set-up-and-access-through-VNC_ja.md"
+        },
+        {
+            "title": "演習4: Faceswapのインストール",
+            "description": "このラボでは、コンピュート・インスタンスにFaceswapをインストールするための必須およびオプションのステップを順を追って説明します。",
+            "filename": "../../Lab4/Install-Faceswap_ja.md"
+        },
+        {
+            "title": "演習5: Faceswapの実行",
+            "description": "このラボでは、コンピュート・インスタンス(端末およびGUI)でFaceswapを実行する必須およびオプションのステップについて説明します。",
+            "filename": "../../Lab5/Run-Faceswap_ja.md"
+        },
+        {
+            "title": "サポートが必要ですか。",
+            "description": "ライブ・ヘルプを受信するための一般的な問題と方向への解決策",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier_ja.md"
+        }
+    ]
+}
