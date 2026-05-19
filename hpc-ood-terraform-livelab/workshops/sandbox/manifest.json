@@ -1,0 +1,32 @@
+{
+    "workshoptitle": "Deploying an HPC cluster on OCI Using Terraform.",
+    "help": "livelabs-help-oci_us@oracle.com",
+	"tutorials": [
+        {
+            "title": "Introduction",
+            "filename": "./../../intro/intro.md"
+        },
+        {
+            "title": "Get Started",
+            "description": "This is the prerequisites for customers using Free Trial and Paid tenancies, and Always Free accounts (if applicable). The title of the lab and the Contents Menu title (the title above) match for Prerequisite lab. This lab is always first.",
+            "filename": "https://livelabs.oracle.com/cdn/common/labs/cloud-login/cloud-login.md"
+        },
+        {
+            "title": "Lab 1: Deploy the HPC Stack",
+            "filename": "./../../deploy_hpc_stack/deploy_hpc_stack.md"
+        },
+        {
+            "title": "Lab 2: Logging into the OOD Application",
+            "filename": "./../../logging_into_app/logging_into_app.md"
+        },
+        {
+            "title": "Lab 3: Destory the HPC Stack",
+            "filename": "./../../destroy_hpc_stack/destroy_hpc_stack.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename": "https://livelabs.oracle.com/cdn/common/labs/need-help/need-help-freetier.md"
+        }
+    ]
+}
