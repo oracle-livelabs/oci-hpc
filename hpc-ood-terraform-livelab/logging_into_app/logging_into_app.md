@@ -40,7 +40,7 @@ Then reset your password and return to the OCI dashboard for the next step.
 
 ![Image of what the activation email should look like.](./images/activate_profile.png)
 
-## Task 2.  Configure the Domain
+## Task 2:  Configure the Domain
 
 ### 1. First log in to your OCI console and select the hamburger dropdown menu.
 
@@ -87,13 +87,13 @@ Then click the black "**Add app roles**." button.
 Then you want to seach and add roles for:
    
 ```
-<copy>Me<copy></copy>
+<copy>Me</copy>
 ```
 ```
-<copy>Identity Domain Administrator<copy></copy>
+<copy>Identity Domain Administrator</copy>
 ```
 ```
-<copy>Signin<copy></copy>
+<copy>Signin</copy>
 ```
 Then click the black "**Add**." button in the bottom right.
 

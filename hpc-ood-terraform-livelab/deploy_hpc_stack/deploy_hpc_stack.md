@@ -64,7 +64,7 @@ Leave **My configuration** at the top selected and then drag and drop the terraf
 
 When you have dropped the folder you can select **Next** at the bottom.
 
-![Shows the first stack information screen where you will need to drag and drop the terraform zip folder.](./images/Drag-and-drop-folder.png)
+![Shows the first stack information screen where you will need to drag and drop the terraform zip folder.](./images/drag-and-drop-folder.png)
 
 We now will begin to configure all the variables necessary to deploy the stack.
 
