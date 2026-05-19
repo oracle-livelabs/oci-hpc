@@ -141,7 +141,7 @@ We now will begin to configure all the variables necessary to deploy the stack.
   |  - **Default username for login node:**|	**opc**
   | - **Additional block volume for login node:** |	***Unselected***
 
-![Image showing what the user's end selection should look like for the additional log in node options.](./images/additional_Login_Node.png)
+![Image showing what the user's end selection should look like for the additional log in node options.](./images/additional_login_node.png)
 
 ### 8. Cluster Monitoring
  | Variable | Needed Input | 
@@ -150,7 +150,7 @@ We now will begin to configure all the variables necessary to deploy the stack.
   | - **Install HPC Cluster alerting Tools:** |	***Enabled***
   | - **Monitoring Node:** |	***Unselected***
 
-![Image showing what the user's end selection should look like for the headnode options.](./images/cluster_Monitoring.png)
+![Image showing what the user's end selection should look like for the headnode options.](./images/cluster_monitoring.png)
 
 ### 9. Autoscaling
  | Variable | Needed Input | 

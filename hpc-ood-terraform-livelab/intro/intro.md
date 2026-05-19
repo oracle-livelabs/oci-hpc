@@ -19,7 +19,7 @@ We will cover following topics as part of the upcoming labs.
 
 As part of the workshop, we will be deploying a terraform script that utilizes a VCN, a domain, and deploys the cluster. The total number of VMs in the cluster can vary due to input criteria. The following image showcases the logical architecture of the target lab.
 
-![HPC Lab Architecture](images/hpc-Lab.png)
+![HPC Lab Architecture](images/hpc-lab.png)
 
 ### Prerequisites
 
